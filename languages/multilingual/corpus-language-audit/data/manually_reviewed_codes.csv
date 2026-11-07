@@ -1,0 +1,68 @@
+код,документов,вердикт,что на самом деле,вероятный код,основание
+chc,479,ошибка,"чикасо (словари, тезаурус)",cic,476 из 479 аннотаций говорят о чикасо
+goh,344,ошибка,ранненововерхненемецкие тексты XVI–XVII вв.,deu (или gmh),"251 из 344 аннотаций: немецкий; «Gedichte…», «Das Buch der Liebe»"
+bar,460,ошибка,"Bartangi Corpus (бартангский, памирский)",sgh (бартангский — диалект шугнанского),«Bartangi Corpus Project: Sentence …»; bar совпадает с началом «Bartangi»
+peo,148,ошибка,фрагменты Bartangi Corpus и персидские тексты,sgh / fas,143 из 148 аннотаций: персидский; примеры из Bartangi Corpus
+sco,533,частично,"много ирландских текстов (Táin Bó Cúalnge, Tromdámh Guaire)",sga / gle,35% аннотаций говорят об ирландском или гэльском
+mbu,92,ошибка,мбуко и мбула (словари),mqb / mna,"«Mbula-English Dictionary», «français — mbuko»"
+mbk,21,ошибка,мбуко,mqb,"«Mbuko Lexicon», «English — Mbuko Dictionary»"
+mer,53,ошибка,мбуко (франц. словари) и мероитское письмо,mqb / xmr,"«français — mbuko», «Meroitic Alphabet»"
+koo,54,ошибка,кунзиме,ozm,все 54: «français — koonzime»
+esg,57,ошибка,староиспанская поэзия,osp / spa,"«Serranillas, canciones y decires», «Cantica de los clérigos de Talavera»"
+kac,49,ошибка,бодо-качари и тексты кри или атикамек,brx / atj,"«Kachari Folk-Tales», «Kacipapitcikatew Sakih»"
+dho,48,ошибка,луо (новости Dala FM),luo,«Dala FM News»; dho совпадает с началом «Dholuo»
+prk,48,ошибка,пракрит (джайнские тексты),pra (коллективный),"«Kalaka Story from Jain Scripture», «Nammaya Sundari Kaha»"
+kot,46,ошибка,котава (словари),avk,«Dictionary Portuguese - Kotava»
+zhn,43,ошибка,"седик (труку), бунун — Тайвань",trv / bnn,«Truku Seediq … Teaching Material»
+puy,42,ошибка,пуюма,pyu,«Ulivelivek Puyuma Language …»
+kai,40,ошибка,какчикель и фрагменты на алгонкинских языках,cak / ?,«Retamaxik ri Kaqchikel Ch'ab'al»
+okg,37,ошибка,салиш–пенд-орей,fla,«A Beginning Course in Salish & Pend d’Oreille»
+atq,29,ошибка,атикамек,atj,26 из 29 аннотаций: атикамек
+bit,25,вероятно ошибка,каннаа (Kannaá) и ленапе,? / unm,"«A Kannaá-English school-dictionary», «Lenape - English Dictionary»"
+par,19,ошибка,парфянские надписи,xpr,«Inscriptional Parthian Script»
+unk,19,ошибка,"фрагменты на алгонкинских языках (кри, оджибве)",crk / ?,"«Orekihikiwamaniwok (Fragment)», «Mackoc Text Fragment»"
+kav,17,ошибка,кавалан,ckv,«Kavalan Dictionary»
+moq,16,ошибка,монтанье (инну),moe,«Dictionnaire français-montagnais»
+bnu,16,ошибка,бунун,bnn,«Isbukun Bunun Language Level 2»
+sax,14,ошибка,затерландский фризский,stq,«Kurs Saterfriesisch»
+slb,13,ошибка,старые словенские тексты,slv,«Večna pratika od gospodarstva»
+myg,13,ошибка,минойский и египетские словари,omn / egy,«Dictionary of Minoan (Fragment)»
+tzl,4,ошибка,цельталь,tzh,«El Tzeltal Hablado»
+gar,12,ошибка,гаро,grt,«Kurongdik Achikku into English Dictionary»
+bun,11,ошибка,бунун,bnn,«Isbukun Bunun Language Level 6»
+sak,10,ошибка,сакизая,szy,«Sakizaya Language Level 3»
+ali,7,ошибка,тати / талышский и словенский,ttt / slv,"«Talesi Tati Dictionary», «Gremo s 58 do konca»"
+nam,7,ошибка,намуйи,nmy,«A Namuyi Tibetan Woman's Journey»
+bil,5,ошибка,"латынь (Саллюстий), турецкий",lat / tur,«C. Sallustii Crispi Opera»
+laz,5,ошибка,лазский,lzz,«Lazuri 8: Lazca Öğretim Materyali»
+tim,5,ошибка,"тима, тимукуа",tms / tjm,"«A Tima-English Dictionary», «Timucua Vocabulary»"
+aci,4,ошибка,ачи (майя),acr,«Wujak’utb’al Tzijaab’ Ch’a’teem Achi»
+all,4,ошибка,альентиак,?,«Doctrina christiana … en la lengua allentiac»
+car,4,ошибка,"карапана, каролинский",cbc / cal,"«Carapana…», «Carolinian-English Dictionary»"
+han,4,ошибка,хануноо,hnn,«Hanunoo-English Vocabulary»
+one,4,ошибка,тамильский (стенограмма ассамблеи),tam,«TNLA-DB-05-1972…»
+rot,4,ошибка кода,"ротокас (язык верный, код нет)",roo,«Rotokas – English Dictionary»
+ram,3,ошибка,рама,rma,«Diccionario Elemental Rama»
+sen,3,ошибка,сенека,see,аннотации: сенека
+sum,3,ошибка,шумерский / аккадский,sux / akk,«The Babylonian Expedition…»
+tar,3,ошибка,тариана,tae,«Dicionário tariana-português»
+ser,3,ошибка,сери,sei,"«Seri Dictionary», «Comcaac…»"
+pur,3,ошибка,пурисименьо,puy,«Purisimeño-English Lexicon»
+kos,3,ошибка,коасати,cku,«Koasati Grammar»
+fan,3,ошибка,фанагало,fng,«Dictionary and Phrase-Book of Fanagalo»
+bem,3,ошибка,"бембе (Beembe), бенга",beq / bng,«Dictionnaire Beembe-Français»
+nav,20653,верно,"навахо: статьи для Википедии, сгенерированные ботом (все txt)",—,"100% primary, 96% аннотаций — навахо"
+san,62370,в основном верно,санскрит (PDF); есть примеси хинди,—,92% аннотаций — санскрит; ~2% — другой язык (хинди и др.)
+tam,50867,"верно, но счётчик завышен",тамильский; у 13% документов основной язык английский,—,в счётчик попадают и второстепенные языки
+guj,33900,"верно, но счётчик завышен",гуджарати; у 11% документов основной язык английский,—,то же
+und,33265,не определён,"PDF из ELP, из которых не извлёкся текст",—,«no text could be extracted»
+ady,5459,"верно, но не связный текст","адыгейский, но в виде POS-размеченных списков слов",—,для лемматизации нужна чистка
+tab,1615,верно,"табасаранский, новости",—,
+tyv,2856,"верно, но текст «плоский»","тувинский, нижний регистр, без пунктуации (из Википедии)",—,
+tat,4772,в основном верно,татарский; около 11% с русским,—,68 из 1000 аннотаций упоминают русский
+udm,1687,"верно, но битая кодировка","удмуртский; 10 из 25 проверенных txt — кракозябры (cp1251, прочитанный как latin-1)",—,перекодировать перед лемматизацией
+ukr,10560,проверить,22 из 25 txt без пунктуации — похоже на списки слов,—,
+gwi,820,не текст,749 из 820 — GIF-картинки,—,исключить из текстовых выборок
+crj,270,частично,18% аннотаций — оджибве,—,
+lat,2549,частично,35% документов с другим основным языком; в выборке были украинские фрагменты,—,
+enm,987,проверить,"39% аннотаций без языка, есть ирландские и церковнославянские",—,
