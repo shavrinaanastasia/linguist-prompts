@@ -43,6 +43,10 @@
    - тувинский и украинский: в основном нижний регистр без пунктуации;
    - `gwi` (гвичин): 749 из 820 документов — GIF-картинки.
 
+## Типы ошибок и предлагаемые исправления
+
+Все найденные типы ошибок (код по буквам названия, другой язык, родственный язык, не та эпоха, выдуманные названия, расхождение названия и кода, слитые названия, второстепенные языки, ненормализованные коды, не-тексты, грубые доли) с таблицами перепутанных языков описаны в [ERROR_TYPES.md](ERROR_TYPES.md). Предлагаемые исправления лежат в двух CSV: по кодам — [`data/proposed_corrections_by_code.csv`](data/proposed_corrections_by_code.csv), по документам — [`data/proposed_corrections_by_document.csv`](data/proposed_corrections_by_document.csv).
+
 ## Как проверяли
 
 Для каждого кода брались до 1000 документов: первая страница API и одна случайная, по 500 документов. В названии и аннотации каждого документа (их писала та же LLM) искались названия языков из справочника каталога: 3006 описываемых языков с glottocode и ISO плюс названия из списка «Written in». Дальше документ попадал в одну из групп:
@@ -78,6 +82,9 @@
 
 | Файл | Что внутри |
 |---|---|
+| [`ERROR_TYPES.md`](ERROR_TYPES.md) | типы ошибок с таблицами перепутанных языков |
+| [`data/proposed_corrections_by_code.csv`](data/proposed_corrections_by_code.csv) | предлагаемая замена кода для 997 подозрительных кодов |
+| [`data/proposed_corrections_by_document.csv`](data/proposed_corrections_by_document.csv) | предлагаемые языки для 9 036 документов из подозрительных кодов |
 | [`data/written_language_audit.csv`](data/written_language_audit.csv) | все 1715 кодов: размер, вердикт, проценты, подсказка, примеры |
 | [`data/suspected_mislabels.csv`](data/suspected_mislabels.csv) | только `mislabel` и `partial` |
 | [`data/inflated_counts.csv`](data/inflated_counts.csv) | коды с завышенными счётчиками: доля документов, где язык основной, и оценка числа таких документов |
@@ -86,3 +93,5 @@
 | [`data/raw_audit.json`](data/raw_audit.json) | сырой результат прогона |
 | [`scripts/audit_written_languages.js`](scripts/audit_written_languages.js) | сам прогон: запускается в консоли браузера после входа в каталог |
 | [`scripts/build_tables.py`](scripts/build_tables.py) | сборка CSV и сводки из сырого результата |
+| [`scripts/make_corrections.py`](scripts/make_corrections.py) | сборка CSV с исправлениями из прохода по документам |
+| [`scripts/build_error_types.py`](scripts/build_error_types.py), [`scripts/error_types_template.md`](scripts/error_types_template.md) | сборка ERROR_TYPES.md |
