@@ -1,0 +1,40 @@
+{
+ "codes": 1715,
+ "label_doc_pairs": 819720,
+ "by_verdict": {
+  "n/a-metalanguage": {
+   "codes": 12,
+   "docs": 510559
+  },
+  "ok": {
+   "codes": 608,
+   "docs": 266322
+  },
+  "special": {
+   "codes": 4,
+   "docs": 33552
+  },
+  "partial": {
+   "codes": 176,
+   "docs": 4545
+  },
+  "mislabel": {
+   "codes": 818,
+   "docs": 4491
+  },
+  "unverifiable": {
+   "codes": 97,
+   "docs": 251
+  }
+ },
+ "by_code_kind": {
+  "iso639-3": 1658,
+  "special": 4,
+  "iso639-2/B": 11,
+  "private-use": 3,
+  "collective": 39
+ },
+ "prefix_signature_codes": 239,
+ "mislabel_high_conf": 148,
+ "secondary_label_share_pct": 36.5
+}

@@ -1,0 +1,1204 @@
+code,ref_name,documents_listed,primary_pct_in_sample,est_primary_docs,est_secondary_docs,inflation_factor,sample,first_language_when_not_primary,verdict
+eng,English,409970,38,155789,254181,2.63,1000,rus:473 deu:39 por:27 ukr:23,n/a-metalanguage
+rus,Russian,43373,78,33831,9542,1.28,1000,tyv:215 lat:2 kaa:1 tat:1,n/a-metalanguage
+tam,Tamil,50867,84,42728,8139,1.19,1000,eng:156,ok
+guj,Gujarati,33900,88,29832,4068,1.14,1000,eng:120 peo:1,ok
+hin,Hindi,8106,58,4701,3405,1.72,1000,san:279 eng:113 urd:6 pli:4,ok
+fra,French,4983,65,3239,1744,1.54,1000,eng:167 rus:48 deu:24 por:18,n/a-metalanguage
+spa,Spanish,7524,88,6621,903,1.14,524,por:17 eng:11 eus:10 que:5,n/a-metalanguage
+lat,Latin,2549,70,1784,765,1.43,1000,eng:64 slv:31 ang:26 sga:26,n/a-metalanguage
+gwi,Gwich'in,820,52,426,394,1.92,820,eng:394 lat:1,ok
+heb,Modern Hebrew,356,24,85,271,4.19,356,yid:177 eng:79 kor:4 spa:3,ok
+zho,,594,56,333,261,1.78,594,eng:151 puy:12 ami:10 fra:8,n/a-metalanguage
+ita,Italian,1288,83,1069,219,1.2,1000,eng:74 san:16 rus:13 deu:10,n/a-metalanguage
+fas,,458,56,256,202,1.79,458,prs:116 eng:46 peo:9 san:9,partial
+bod,Tibetan,294,40,118,176,2.49,294,eng:133 san:34 zho:4 deu:2,ok
+mar,Marathi,717,79,566,151,1.27,717,san:99 eng:47 guj:1 kan:1,ok
+ind,Standard Indonesian,539,73,393,146,1.37,539,eng:117 ace:4 min:3 tet:3,ok
+jpn,Japanese,368,64,236,132,1.56,368,eng:97 deu:6 spa:6 rus:3,ok
+ben,Bengali,468,72,337,131,1.39,468,eng:59 san:58 hin:6 ara:4,ok
+nld,Dutch,467,72,336,131,1.39,467,eng:37 fry:11 fra:11 sax:9,n/a-metalanguage
+tsg,Tausug,325,60,195,130,1.67,325,eng:126 khm:2 zho:1,ok
+cmn,Mandarin Chinese,342,63,215,127,1.59,342,eng:110 fra:4 rus:3 jpn:1,n/a-metalanguage
+chc,Catawba,479,75,359,120,1.33,479,eng:119 spa:2,mislabel
+pes,Western Farsi,195,43,84,111,2.32,195,prs:87 eng:14 rus:3 kmr:2,partial
+tur,Turkish,602,82,494,108,1.22,602,eng:50 deu:10 rus:9 aze:9,ok
+pol,Polish,936,89,833,103,1.12,936,eng:54 lit:9 deu:8 ukr:7,ok
+tel,Telugu,461,78,360,101,1.28,461,eng:63 san:32 gon:2 fra:1,ok
+grc,Ionic-Attic Ancient Greek,404,75,303,101,1.33,404,eng:52 deu:14 fra:9 lat:8,partial
+nep,,400,75,300,100,1.33,400,eng:77 san:16 dan:2 ben:1,ok
+urd,Urdu,888,89,790,98,1.12,888,eng:49 san:13 hin:12 fas:3,ok
+syr,,129,25,32,97,4.03,129,eng:85 ara:3 sam:3 lat:1,ok
+pli,Pali,407,78,317,90,1.28,407,eng:54 san:12 hin:11 vie:2,ok
+mbu,Mbula-Bwazza,92,2,2,90,46.0,92,eng:53 fra:37,mislabel
+khm,Central Khmer,239,64,153,86,1.56,239,eng:86,ok
+jav,Javanese,193,58,112,81,1.72,193,eng:79 ind:3,ok
+tha,Thai,187,62,116,71,1.61,187,eng:66 lao:1 fra:1 zho:1,ok
+mal,Malayalam,187,65,122,65,1.53,187,eng:59 tel:2 san:2 tam:1,ok
+peo,Old Persian (ca. 600-400 B.C.),148,56,83,65,1.78,148,eng:60 guj:2 bal:1 ave:1,ok
+sin,Sinhala,307,79,243,64,1.26,307,eng:59 tam:2 pli:2 por:1,ok
+kor,Korean,204,69,141,63,1.45,204,eng:57 uzb:2 fra:1 ron:1,ok
+kas,Kashmiri,122,49,60,62,2.03,122,eng:26 urd:13 hin:12 san:11,ok
+kan,Kannada,278,78,217,61,1.28,278,eng:23 san:20 hin:5 zho:3,ok
+vie,Vietnamese,161,62,100,61,1.61,161,eng:44 fra:5 cha:4 sed:2,ok
+kmr,Northern Kurdish,317,82,260,57,1.22,317,eng:58,ok
+cym,Welsh,90,38,34,56,2.65,90,eng:55 bre:1,ok
+cop,Coptic,82,32,26,56,3.15,82,eng:39 deu:9 fra:5 lat:2,ok
+akk,Akkadian,64,14,9,55,7.11,64,eng:47 arc:4 deu:3 sux:1,ok
+hun,Hungarian,354,85,301,53,1.18,354,eng:30 fra:6 lat:5 spa:3,ok
+epo,Esperanto,111,52,58,53,1.91,111,eng:20 frr:15 spa:3 nld:2,ok
+tgl,Tagalog,113,54,61,52,1.85,113,eng:43 tsg:4 spa:2 deu:1,partial
+hau,Hausa,93,45,42,51,2.21,93,eng:37 cle:4 rus:3 zar:2,ok
+csw,Swampy Cree,63,21,13,50,4.85,63,eng:50,mislabel
+koo,Konzo,54,9,5,49,10.8,54,fra:49,mislabel
+dan,Danish,276,83,229,47,1.21,276,eng:25 frr:11 fra:5 kot:1,ok
+mer,Meru,53,11,6,47,8.83,53,fra:43 eng:3 syr:1,mislabel
+bas,Basa (Cameroon),72,36,26,46,2.77,72,fra:39 deu:4 eng:3,ok
+mri,Maori,54,15,8,46,6.75,54,eng:45 fra:1,ok
+swe,Swedish,174,74,129,45,1.35,174,eng:27 fin:5 deu:4 rom:3,ok
+uga,Ugaritic,43,2,1,42,43.0,43,eng:42,ok
+ces,Czech,136,70,95,41,1.43,136,eng:20 deu:4 rus:4 isl:2,ok
+frr,Northern Frisian,113,65,73,40,1.55,113,fra:9 nld:7 dan:7 deu:7,ok
+sux,Sumerian,45,16,7,38,6.43,45,eng:37 ita:1,ok
+njy,Njyem,38,0,0,38,,38,fra:37 eng:1,ok
+bre,Breton,83,55,46,37,1.8,83,fra:31 eng:5 rus:1,ok
+gla,Scottish Gaelic,96,64,61,35,1.57,96,eng:31 fra:2 bre:2,ok
+tpi,Tok Pisin,45,22,10,35,4.5,45,eng:13 amb:4 bar:3 dad:2,ok
+pal,Pahlavi,76,55,42,34,1.81,76,eng:20 syr:4 deu:3 peo:2,partial
+kom,,53,38,20,33,2.65,53,eng:33,unverifiable
+swh,Swahili,35,11,4,31,8.75,35,eng:21 fra:3 ita:3 deu:2,ok
+pan,Eastern Panjabi,223,87,194,29,1.15,223,eng:19 san:3 guj:2 urd:2,partial
+bss,Akoose,34,15,5,29,6.8,34,fra:19 eng:6 deu:4,ok
+nyo,Nyoro,31,6,2,29,15.5,31,fra:26 eng:3,partial
+cat,Catalan,76,67,51,25,1.49,76,eng:17 spa:4 eus:2 deu:1,ok
+mni,Manipuri,55,55,30,25,1.83,55,eng:24 lus:1,ok
+kot,Lagwan,46,46,21,25,2.19,46,fra:4 por:2 eng:2 msa:1,mislabel
+shi,Tachelhit,40,40,16,24,2.5,40,fra:16 eng:5 urd:1 spa:1,ok
+prk,South Wa,48,52,25,23,1.92,48,san:11 hin:8 eng:4,mislabel
+kaz,Kazakh,47,51,24,23,1.96,47,rus:13 eng:8 zho:1 ukr:1,ok
+rhg,Rohingya,31,26,8,23,3.88,31,eng:23,ok
+asm,Assamese,94,77,72,22,1.31,94,eng:22,ok
+ell,Modern Greek,75,71,53,22,1.42,75,eng:21 por:1,ok
+arc,Imperial Aramaic (700-300 BCE),61,64,39,22,1.56,61,eng:13 sux:3 par:3 heb:1,partial
+quz,Cusco Quechua,34,35,12,22,2.83,34,spa:12 eng:10,ok
+zhn,Nong Zhuang,43,51,22,21,1.95,43,bnu:5 kav:2 puy:2 sak:2,mislabel
+srp,,166,88,146,20,1.14,166,eng:13 rus:3 slv:2 ita:2,ok
+bra,Braj,131,85,111,20,1.18,131,san:14 eng:4 doi:1,ok
+pap,Papiamento,94,79,74,20,1.27,94,eng:17 nld:2 deu:1,ok
+bel,Belarusian,78,74,58,20,1.34,78,eng:7 rus:4 pol:4 deu:1,ok
+bul,Bulgarian,68,71,48,20,1.42,68,eng:15 rus:3 ces:1 fra:1,ok
+hye,Eastern Armenian,67,70,47,20,1.43,67,eng:9 rus:3 ita:3 jpn:3,ok
+zul,Zulu,51,61,31,20,1.65,51,eng:17 kot:1 tsn:1 deu:1,ok
+puy,Purisimeño,42,52,22,20,1.91,42,cmn:7 zsm:6 zho:5 nan:1,mislabel
+mon,,29,31,9,20,3.22,29,eng:14 san:2 tyv:1 mng:1,ok
+mbk,Malol,21,5,1,20,21.0,21,fra:14 eng:6,mislabel
+quc,K'iche',70,73,51,19,1.37,70,spa:14 eng:5,partial
+afr,Afrikaans,58,67,39,19,1.49,58,eng:18 ven:1,ok
+oci,Occitan,38,50,19,19,2.0,38,fra:18 eng:1,ok
+ang,Old English (ca. 450-1100),102,82,84,18,1.21,102,sga:8 lat:2 enm:2 deu:1,partial
+uzb,,93,81,75,18,1.24,93,eng:9 rus:3 prs:2 tgk:1,ok
+slk,Slovak,62,71,44,18,1.41,62,eng:9 rus:3 rom:2 pol:2,ok
+mya,Burmese,58,69,40,18,1.45,58,eng:16 roh:1 mon:1,ok
+msa,,56,68,38,18,1.47,56,eng:12 min:2 kot:1 sun:1,ok
+yor,Yoruba,42,57,24,18,1.75,42,eng:14 rus:1 por:1 ibo:1,ok
+bis,Bislama,36,50,18,18,2.0,36,deu:6 eng:5 fra:5 apm:1,partial
+kab,Kabyle,29,38,11,18,2.64,29,fra:18,ok
+snd,Sindhi,49,65,32,17,1.53,49,eng:16 mar:1,ok
+cha,Chamorro,40,58,23,17,1.74,40,eng:15 vie:2,partial
+wol,Wolof,34,50,17,17,2.0,34,fra:9 eng:6 agu:1 ind:1,ok
+tay,Atayal,25,32,8,17,3.12,25,zsm:8 zho:4 eng:2 vie:2,ok
+chm,,25,32,8,17,3.12,25,spa:8 eng:5 vie:3 fra:1,mislabel
+tuk,Turkmen,122,87,106,16,1.15,122,eng:13 rus:2 ukr:1,ok
+lao,Lao,62,74,46,16,1.35,62,eng:9 fra:4 kmh:1 ind:1,partial
+kat,Georgian,45,64,29,16,1.55,45,eng:10 rus:3 hye:1 ita:1,ok
+tet,Tetum,34,53,18,16,1.89,34,por:7 eng:4 ind:3 kea:1,partial
+ave,Avestan,26,38,10,16,2.6,26,eng:12 ukr:1 lat:1 ita:1,ok
+phn,Phoenician,17,6,1,16,17.0,17,eng:13 ara:2 syr:1,ok
+nor,Norwegian,75,80,60,15,1.25,75,eng:8 sme:2 kot:1 spa:1,ok
+fil,Filipino,58,74,43,15,1.35,58,eng:13 ilo:1 agt:1,ok
+kai,Karekare,40,63,25,15,1.6,40,spa:8 eng:6 ind:1,mislabel
+xho,Xhosa,34,56,19,15,1.79,34,eng:15,ok
+kha,Khasi,24,38,9,15,2.67,24,eng:15,ok
+mlt,Maltese,23,35,8,15,2.88,23,eng:11 ita:3 fra:1,ok
+sam,,21,29,6,15,3.5,21,eng:12 syr:2 heb:1,mislabel
+tli,Tlingit,20,25,5,15,4.0,20,eng:14 rus:1,ok
+par,Panamint,19,21,4,15,4.75,19,eng:9 syr:3 heb:1 ara:1,mislabel
+tgk,Tajik,55,75,41,14,1.34,55,rus:8 eng:5 ygn:1,ok
+som,Somali,39,64,25,14,1.56,39,eng:10 swe:1 ita:1 fra:1,ok
+tir,Tigrinya,24,42,10,14,2.4,24,eng:12 ita:1 gez:1,ok
+hat,Haitian,21,33,7,14,3.0,21,eng:13 rus:1,ok
+man,,21,33,7,14,3.0,21,eng:8 fra:3 wol:1 mon:1,partial
+mnc,Manchu,16,13,2,14,8.0,16,eng:9 zhg:2 fra:2 rus:1,ok
+dut,,51,75,38,13,1.34,51,eng:10 lat:2 bug:1,ok
+kac,Southern Jinghpaw,49,73,36,13,1.36,49,eng:7 spa:5 san:1,mislabel
+arz,Egyptian Arabic,42,69,29,13,1.45,42,eng:13,ok
+cor,Cornish,24,46,11,13,2.18,24,eng:10 lat:1 scn:1 spa:1,ok
+fij,Fijian,20,35,7,13,2.86,20,eng:13,ok
+cho,Choctaw,20,35,7,13,2.86,20,eng:11 spa:2,partial
+mix,Mixtepec Mixtec,20,35,7,13,2.86,20,spa:11 eng:2,ok
+uig,Uighur,20,35,7,13,2.86,20,eng:9 rus:2 zho:1 tur:1,ok
+nhe,Eastern Huasteca Nahuatl,17,24,4,13,4.25,17,eng:9 por:3 spa:1,partial
+kmb,Kimbundu,15,13,2,13,7.5,15,por:8 eng:2 spa:1 fra:1,partial
+myg,Manta,13,0,0,13,,13,eng:13,mislabel
+chr,Cherokee,42,71,30,12,1.4,42,eng:11 fra:1,partial
+war,Waray (Philippines),33,64,21,12,1.57,33,eng:12,partial
+ngb,Northern Ngbandi,25,52,13,12,1.92,25,fra:12,mislabel
+ibo,Igbo,24,50,12,12,2.0,24,eng:12,ok
+rom,,23,48,11,12,2.09,23,eng:3 deu:2 spa:2 slk:2,mislabel
+sag,Sango,22,45,10,12,2.2,22,fra:9 eng:3,ok
+myv,Erzya,18,33,6,12,3.0,18,spa:3 rus:2 eng:2 tyv:1,partial
+yua,Yucatec Maya,17,29,5,12,3.4,17,eng:10 spa:2,partial
+tcx,Toda,16,25,4,12,4.0,16,eng:12,mislabel
+kri,Krio,13,8,1,12,13.0,13,eng:9 por:3,partial
+myn,,13,8,1,12,13.0,13,eng:10 spa:2,mislabel
+vol,Volapük,81,86,70,11,1.16,81,eng:6 rus:4 ita:1,ok
+moh,Mohawk,54,80,43,11,1.26,54,eng:7 fra:2 lat:1 mah:1,ok
+isl,Icelandic,51,78,40,11,1.27,51,eng:9 kot:1 dan:1,ok
+stq,Ems-Weser Frisian,50,78,39,11,1.28,50,deu:8 nld:2 eng:1,ok
+haw,Hawaiian,31,65,20,11,1.55,31,eng:10 mri:1,ok
+tzo,Tzotzil,31,65,20,11,1.55,31,spa:8 eng:2 fra:1,mislabel
+tok,Toki Pona,24,54,13,11,1.85,24,eng:6 rus:2 epo:1 ind:1,ok
+kav,Katukína,17,35,6,11,2.83,17,zsm:7 zho:3 eng:1,mislabel
+dak,Dakota,13,15,2,11,6.5,13,eng:10 bis:1,ok
+wln,Walloon,60,83,50,10,1.2,60,fra:10,ok
+mkd,Macedonian,54,81,44,10,1.23,54,eng:9 rup:1,ok
+lkt,Lakota,24,58,14,10,1.71,24,eng:10,ok
+nub,,21,52,11,10,1.91,21,eng:10,mislabel
+bam,Bambara,21,52,11,10,1.91,21,fra:8 deu:1 eng:1,ok
+shn,Shan,19,47,9,10,2.11,19,eng:5 urd:2 bod:1 tbe:1,partial
+sai,,17,41,7,10,2.43,17,zsm:6 eng:3 peo:1,mislabel
+aka,Akan,15,33,5,10,3.0,15,eng:7 spa:3,partial
+glv,Manx,36,75,27,9,1.33,36,eng:9,ok
+smo,Samoan,27,67,18,9,1.5,27,eng:6 fra:3,ok
+got,Gothic,26,65,17,9,1.53,26,eng:5 deu:3 grc:1,ok
+bnn,Bunun,21,57,12,9,1.75,21,zhn:4 zho:4 zsm:1,ok
+non,Old Norse,18,50,9,9,2.0,18,eng:9,ok
+ale,Aleut,17,47,8,9,2.12,17,eng:9,ok
+grn,,17,47,8,9,2.12,17,spa:8 eng:1,ok
+mfe,Morisyen,13,31,4,9,3.25,13,eng:9,mislabel
+tsn,Tswana,12,25,3,9,4.0,12,eng:9,partial
+paw,Pawnee,10,10,1,9,10.0,10,eng:4 zho:3 cmn:1 zsm:1,mislabel
+zsm,Standard Malay,63,87,55,8,1.15,63,sai:2 tay:2 trv:1 tsu:1,mislabel
+ceb,Cebuano,26,69,18,8,1.44,26,eng:6 spa:1 tsg:1,ok
+chy,Cheyenne,26,69,18,8,1.44,26,eng:8,ok
+fry,Western Frisian,23,65,15,8,1.53,23,nld:7 eng:1,ok
+apb,Sa'a,21,62,13,8,1.62,21,san:4 eng:2 guj:1 hin:1,mislabel
+arn,Mapudungun,19,58,11,8,1.73,19,spa:5 eng:2 rus:1,ok
+kik,Kikuyu,17,53,9,8,1.89,17,eng:7 kam:1,ok
+bnu,Bentong,16,50,8,8,2.0,16,zhn:6 zsm:1 zho:1,mislabel
+nya,Nyanja,15,47,7,8,2.14,15,eng:8,ok
+oji,,15,47,7,8,2.14,15,eng:8,ok
+hil,Hiligaynon,14,43,6,8,2.33,14,eng:8,ok
+njo,Ao Naga,13,38,5,8,2.6,13,fra:5 eng:2 ind:1,mislabel
+cic,Chickasaw,12,33,4,8,3.0,12,eng:8,ok
+zha,,12,33,4,8,3.0,12,eng:4 rus:1 peo:1 est:1,mislabel
+hop,Hopi,12,33,4,8,3.0,12,eng:8,ok
+ewe,Ewe,12,33,4,8,3.0,12,eng:5 deu:2 fra:1,partial
+bun,Sherbro,11,27,3,8,3.67,11,eng:4 zhn:4,mislabel
+koy,Koyukon,11,27,3,8,3.67,11,eng:7 ory:1,partial
+umb,Umbundu,10,20,2,8,5.0,10,eng:5 por:3,partial
+arq,Algerian Arabic,10,20,2,8,5.0,10,eng:7 fra:1,ok
+ard,Arabana,9,11,1,8,9.0,9,eng:7 hin:1,mislabel
+mrt,Marghi Central,9,11,1,8,9.0,9,eng:8,mislabel
+sgd,Surigaonon,9,11,1,8,9.0,9,eng:5 peo:1 fra:1 pes:1,mislabel
+khb,Lü,8,0,0,8,,8,eng:6 spa:1 hin:1,mislabel
+chu,Church Slavic,47,85,40,7,1.18,47,eng:4 lat:3,ok
+pam,Pampanga,29,76,22,7,1.32,29,spa:3 tgl:2 eng:2,ok
+ido,Ido,24,71,17,7,1.41,24,eng:3 ita:2 rus:1 nov:1,partial
+aue,,15,53,8,7,1.88,15,fra:7,mislabel
+sna,Shona,15,53,8,7,1.88,15,eng:6 fra:1,ok
+kar,,15,53,8,7,1.88,15,eng:5 por:1 fra:1,mislabel
+bla,Siksika,15,53,8,7,1.88,15,eng:7,ok
+yao,Yao,14,50,7,7,2.0,14,zhm:3 eng:3 cmn:1,mislabel
+hit,Hittite,11,36,4,7,2.75,11,eng:5 deu:1 ind:1,ok
+heo,,10,30,3,7,3.33,10,syr:5 eng:2,mislabel
+bur,,9,22,2,7,4.5,9,urd:3 eng:2 amh:1 deu:1,mislabel
+aca,Achagua,8,13,1,7,8.0,8,spa:5 eng:2,mislabel
+sel,Selkup,8,13,1,7,8.0,8,eng:4 rus:2 spa:1,partial
+mot,Barí,8,13,1,7,8.0,8,eng:6 spa:1,mislabel
+bol,Bole,8,13,1,7,8.0,8,eng:7,ok
+bvu,Bukit Malay,7,0,0,7,,7,deu:6 fra:1,mislabel
+jbo,Lojban,7,0,0,7,,7,eng:6 ira:1,ok
+pdc,Pennsylvania German,56,89,50,6,1.12,56,eng:6,ok
+mai,Maithili,55,89,49,6,1.12,55,eng:3 san:3,ok
+lav,Latvian,48,88,42,6,1.14,48,eng:4 rus:2,ok
+nds,Eastern Low German,37,84,31,6,1.19,37,deu:6,ok
+abk,Abkhaz,33,82,27,6,1.22,33,eng:4 rus:2,ok
+tzu,"Tzotzil, Huixtán",23,74,17,6,1.35,23,spa:6,mislabel
+chv,Chuvash,22,73,16,6,1.38,22,eng:5 rus:1,ok
+aym,,21,71,15,6,1.4,21,eng:5 spa:1,mislabel
+nah,,17,65,11,6,1.55,17,eng:4 spa:2,mislabel
+scn,Sicilian,15,60,9,6,1.67,15,eng:3 ita:3,ok
+men,Mende (Sierra Leone),14,57,8,6,1.75,14,eng:5 fra:1,mislabel
+tlh,Klingon,13,54,7,6,1.86,13,eng:4 zho:1 ita:1,ok
+zhm,,12,50,6,6,2.0,12,eng:2 tsu:1 zbl:1 puy:1,mislabel
+gar,Galeya,12,50,6,6,2.0,12,eng:3 spa:2 ben:1,mislabel
+tsu,Tsou,12,50,6,6,2.0,12,zho:4 zsm:2,ok
+mag,Magahi,11,45,5,6,2.2,11,spa:3 eng:2 san:1,partial
+mus,Creek,11,45,5,6,2.2,11,eng:5 rus:1,partial
+del,,10,40,4,6,2.5,10,eng:5 onr:1,mislabel
+lin,Kinshasa Lingala,10,40,4,6,2.5,10,eng:2 fra:2 ara:1 wol:1,ok
+sak,Sake,10,40,4,6,2.5,10,zsm:4 zho:1 zhn:1,mislabel
+pra,,8,25,2,6,4.0,8,san:4 eng:1 hin:1,ok
+pjt,Pitjantjatjara,8,25,2,6,4.0,8,eng:6,ok
+tib,,8,25,2,6,4.0,8,eng:6,ok
+ahm,Mobumrin Aizi,7,14,1,6,7.0,7,eng:6,mislabel
+ali,Amaimon,7,14,1,6,7.0,7,eng:5 pes:1,mislabel
+tmh,,7,14,1,6,7.0,7,fra:6,partial
+nam,Nangikurrunggurr,7,14,1,6,7.0,7,eng:5 spa:1,mislabel
+tup,,7,14,1,6,7.0,7,por:5 fra:1,partial
+rkh,Rakahanga-Manihiki,7,14,1,6,7.0,7,zsm:5 zho:1,mislabel
+myc,,6,0,0,6,,6,eng:6,mislabel
+shu,Chadian Arabic,6,0,0,6,,6,spa:6,mislabel
+dzo,Dzongkha,37,86,32,5,1.16,37,eng:4 kor:1,ok
+gag,Gagauz,32,84,27,5,1.19,32,rus:4 ron:1,ok
+glg,Galician,29,83,24,5,1.21,29,eng:3 eus:1 spa:1,ok
+uzn,Northern Uzbek,28,82,23,5,1.22,28,eng:3 rus:2,ok
+ojb,Northwestern Ojibwa,25,80,20,5,1.25,25,eng:5,ok
+new,Kathmandu Valley Newari,24,79,19,5,1.26,24,san:2 eng:2 nep:1,partial
+qan,,24,79,19,5,1.26,24,spa:3 eng:2,mislabel
+jvn,Caribbean Javanese,18,72,13,5,1.38,18,eng:5,ok
+ilo,Iloko,16,69,11,5,1.45,16,spa:3 fil:1 eng:1,partial
+lad,Ladino,15,67,10,5,1.5,15,eng:5,ok
+arp,Arapaho,14,64,9,5,1.56,14,eng:5,ok
+rum,,14,64,9,5,1.56,14,eng:2 rus:1 san:1 hrv:1,ok
+kaq,Capanahua,12,58,7,5,1.71,12,spa:5,mislabel
+lzh,Classical Chinese,12,58,7,5,1.71,12,eng:5,ok
+ewo,Ewondo,10,50,5,5,2.0,10,fra:5,ok
+tly,North-Central Talysh,10,50,5,5,2.0,10,eng:3 azj:2,partial
+egy,Egyptian (Ancient),9,44,4,5,2.25,9,eng:3 deu:1 fra:1,ok
+lep,Lepcha,9,44,4,5,2.25,9,eng:5,ok
+hid,Hidatsa,8,38,3,5,2.67,8,eng:5,ok
+esu,Central Alaskan Yupik,8,38,3,5,2.67,8,eng:5,ok
+ban,Balinese,8,38,3,5,2.67,8,ind:3 eng:2,partial
+naq,Nama (Namibia),7,29,2,5,3.5,7,eng:5,mislabel
+pag,Pangasinan,7,29,2,5,3.5,7,eng:3 spa:2,ok
+gez,Geez,6,17,1,5,6.0,6,eng:4 tig:1,ok
+pae,Pagibete,6,17,1,5,6.0,6,spa:5,mislabel
+ken,Kenyang,6,17,1,5,6.0,6,eng:4 fra:1,ok
+chi,,6,17,1,5,6.0,6,eng:5,mislabel
+abe,Western Abenaki,5,0,0,5,,5,eng:5,ok
+guc,Wayuu,5,0,0,5,,5,por:2 eng:1 san:1 spa:1,partial
+arm,,5,0,0,5,,5,eng:5,ok
+nvk,,5,0,0,5,,5,eng:5,mislabel
+kwk,Kwak'wala,5,0,0,5,,5,eng:5,ok
+crl,Northern East Cree,5,0,0,5,,5,eng:5,mislabel
+nvq,,5,0,0,5,,5,eng:5,mislabel
+lun,Lunda,5,0,0,5,,5,eng:5,partial
+hmn,,5,0,0,5,,5,eng:5,mislabel
+sat,Santali,24,83,20,4,1.2,24,eng:3 zsm:1,partial
+kur,,18,78,14,4,1.29,18,eng:2 pol:1 kmr:1,partial
+que,,17,76,13,4,1.31,17,spa:3 fra:1,ok
+ber,,16,75,12,4,1.33,16,eng:2 fra:1 ind:1,mislabel
+moq,Mor (Bomberai Peninsula),16,75,12,4,1.33,16,fra:4,mislabel
+otk,Old Turkish,15,73,11,4,1.36,15,eng:3 deu:1,partial
+zhg,,15,73,11,4,1.36,15,kav:2 eng:1 zsm:1,mislabel
+xcl,Classical-Middle Armenian,15,73,11,4,1.36,15,eng:3 fra:1,partial
+min,Minangkabau,14,71,10,4,1.4,14,ind:4,ok
+mng,Eastern Mnong,14,71,10,4,1.4,14,fra:2 eng:1 cmn:1,mislabel
+lim,Limburgan,14,71,10,4,1.4,14,eng:4,mislabel
+kpv,Komi-Zyrian,14,71,10,4,1.4,14,rus:2 tyv:1 deu:1,ok
+khw,Khowar,12,67,8,4,1.5,12,eng:2 rus:1 deu:1,mislabel
+vep,Veps,12,67,8,4,1.5,12,rus:4,ok
+ile,Interlingue (Occidental),11,64,7,4,1.57,11,eng:2 deu:2,ok
+cre,,10,60,6,4,1.67,10,eng:2 fra:2,ok
+apw,Western Apache,10,60,6,4,1.67,10,eng:4,ok
+mah,Marshallese,9,56,5,4,1.8,9,eng:4,partial
+ckb,Central Kurdish,9,56,5,4,1.8,9,eng:3 kmr:1,ok
+krl,Karelian,9,56,5,4,1.8,9,eng:4,partial
+run,Rundi,8,50,4,4,2.0,8,fra:2 eng:2,partial
+lis,Lisu,8,50,4,4,2.0,8,eng:4,ok
+aro,Araona,8,50,4,4,2.0,8,eng:3 spa:1,partial
+nko,Nkonya,7,43,3,4,2.33,7,eng:4,ok
+kui,Kuikúro-Kalapálo,7,43,3,4,2.33,7,eng:2 ori:1 ind:1,mislabel
+gil,Gilbertese,7,43,3,4,2.33,7,eng:4,ok
+ach,Acoli,6,33,2,4,3.0,6,spa:3 eng:1,mislabel
+shb,Ninam,5,20,1,4,5.0,5,eng:3 deu:1,mislabel
+sal,,5,20,1,4,5.0,5,zho:2 eng:1 ind:1,mislabel
+laz,Aribwatsa,5,20,1,4,5.0,5,eng:3 tur:1,mislabel
+onr,Northern One,5,20,1,4,5.0,5,eng:3 fra:1,mislabel
+cfn,,5,20,1,4,5.0,5,spa:3 eng:1,mislabel
+cro,Crow,5,20,1,4,5.0,5,eng:4,ok
+srr,Sereer,5,20,1,4,5.0,5,eng:3 tam:1,mislabel
+bil,Bile,5,20,1,4,5.0,5,eng:2 lat:1 por:1,mislabel
+iba,Iban,4,0,0,4,,4,eng:2 ilo:1 spa:1,partial
+ngm,Ngatik Men's Creole,4,0,0,4,,4,eng:4,mislabel
+syx,Osamayi,4,0,0,4,,4,eng:4,mislabel
+car,Galibi Carib,4,0,0,4,,4,eng:2 spa:1 fra:1,partial
+nkn,Nkangala,4,0,0,4,,4,eng:4,mislabel
+itl,West Itelmen,4,0,0,4,,4,spa:4,mislabel
+qya,Quenya,4,0,0,4,,4,eng:4,ok
+rwo,Rawa,4,0,0,4,,4,eng:4,ok
+sgh,Shughni,4,0,0,4,,4,ang:3 tgk:1,partial
+nax,Nakwi,4,0,0,4,,4,eng:1 jpn:1 spa:1 rus:1,mislabel
+elx,Elamite,4,0,0,4,,4,fra:3 eng:1,ok
+tuv,Turkana,4,0,0,4,,4,eng:4,ok
+onq,,4,0,0,4,,4,eng:3 fra:1,mislabel
+ata,Pele-Ata,4,0,0,4,,4,eng:4,partial
+jaq,Yaqay,4,0,0,4,,4,spa:3 eng:1,mislabel
+dua,Duala,4,0,0,4,,4,fra:2 deu:2,ok
+mvc,"Mam, Central",4,0,0,4,,4,eng:4,mislabel
+oss,Iron Ossetian,4,0,0,4,,4,eng:3 deu:1,partial
+boe,Mundabli-Mufu,4,0,0,4,,4,eng:4,mislabel
+dgr,Dogrib,4,0,0,4,,4,eng:4,partial
+nov,Novial,28,89,25,3,1.12,28,eng:3,ok
+mic,Mi'kmaq,26,88,23,3,1.13,26,eng:3,ok
+ory,Odia,23,87,20,3,1.15,23,eng:1 sat:1 rus:1,ok
+roh,Romansh,22,86,19,3,1.16,22,eng:2 deu:1,partial
+mam,Mam,18,83,15,3,1.2,18,spa:2 eng:1,partial
+ami,Amis,17,82,14,3,1.21,17,zho:2 zsm:1,ok
+chp,Chipewyan,14,79,11,3,1.27,14,eng:3,ok
+crx,Central Carrier,13,77,10,3,1.3,13,eng:3,partial
+aeb,Tunisian Arabic,13,77,10,3,1.3,13,eng:3,ok
+sun,Sundanese,12,75,9,3,1.33,12,eng:2 ind:1,ok
+yad,Yagua,10,70,7,3,1.43,10,eng:2 spa:1,mislabel
+nob,,9,67,6,3,1.5,9,eng:2 rus:1,partial
+yue,Yue Chinese,9,67,6,3,1.5,9,eng:3,ok
+zap,,8,63,5,3,1.6,8,eng:2 spa:1,ok
+bug,Buginese,7,57,4,3,1.75,7,ind:2 eng:1,ok
+den,,7,57,4,3,1.75,7,eng:2 por:1,mislabel
+gon,,6,50,3,3,2.0,6,tel:1 ori:1 eng:1,ok
+ruk,Che,6,50,3,3,2.0,6,zho:2 zsm:1,unverifiable
+nan,Min Nan Chinese,6,50,3,3,2.0,6,eng:2 rus:1,mislabel
+bin,Bini,6,50,3,3,2.0,6,eng:3,ok
+dgo,Dogri,6,50,3,3,2.0,6,nub:1 eng:1 por:1,mislabel
+ruq,Megleno-Romanian,6,50,3,3,2.0,6,zho:1 rus:1 zhn:1,mislabel
+kon,,6,50,3,3,2.0,6,por:2 lin:1,mislabel
+sus,Susu,5,40,2,3,2.5,5,eng:2 fra:1,ok
+kal,Kalaallisut,5,40,2,3,2.5,5,fra:1 dan:1 eng:1,partial
+ina,Interlingua (International Auxiliary Language Association),5,40,2,3,2.5,5,eng:2 nov:1,partial
+kiw,Northeast Kiwai,5,40,2,3,2.5,5,eng:3,mislabel
+dob,Dobu,5,40,2,3,2.5,5,eng:3,ok
+lez,Lezgian,5,40,2,3,2.5,5,azj:2 eng:1,partial
+pib,Yine,5,40,2,3,2.5,5,eng:2 spa:1,mislabel
+brx,Bodo-Mech,5,40,2,3,2.5,5,eng:2 urd:1,mislabel
+lil,Lillooet,5,40,2,3,2.5,5,eng:2 zho:1,partial
+wsk,Waskia,5,40,2,3,2.5,5,eng:3,partial
+pau,Palauan,5,40,2,3,2.5,5,eng:3,partial
+sva,Svan,5,40,2,3,2.5,5,eng:2 rus:1,ok
+nsk,Naskapi,4,25,1,3,4.0,4,eng:3,ok
+ito,Itonama,4,25,1,3,4.0,4,spa:3,ok
+alb,,4,25,1,3,4.0,4,eng:3,partial
+han,Hangaza,4,25,1,3,4.0,4,eng:2 zho:1,mislabel
+krg,North Korowai,4,25,1,3,4.0,4,spa:1 eng:1 deu:1,mislabel
+hif,Fiji Hindi,4,25,1,3,4.0,4,eng:3,ok
+squ,Squamish,4,25,1,3,4.0,4,eng:3,ok
+one,Oneida,4,25,1,3,4.0,4,eng:2 tam:1,partial
+aci,Akacari,4,25,1,3,4.0,4,spa:3,mislabel
+apa,,4,25,1,3,4.0,4,eng:3,mislabel
+als,Northern Tosk Albanian,4,25,1,3,4.0,4,fra:1 ind:1 ita:1,partial
+hal,Halang,4,25,1,3,4.0,4,eng:2 ind:1,mislabel
+onn,Onobasulu,4,25,1,3,4.0,4,fra:2 eng:1,mislabel
+bua,,4,25,1,3,4.0,4,eng:2 fra:1,partial
+fon,Fon,4,25,1,3,4.0,4,fra:3,mislabel
+evn,Evenki,4,25,1,3,4.0,4,eng:2 rus:1,ok
+tdd,Tai Nüa,4,25,1,3,4.0,4,eng:2 cmn:1,mislabel
+maw,Mampruli,4,25,1,3,4.0,4,eng:2 por:1,mislabel
+kir,Kirghiz,4,25,1,3,4.0,4,eng:2 por:1,ok
+tan,Tangale,3,0,0,3,,3,eng:2 rus:1,partial
+ser,Serrano,3,0,0,3,,3,spa:2 eng:1,mislabel
+luw,Luo (Cameroon),3,0,0,3,,3,eng:3,mislabel
+kum,Kumyk,3,0,0,3,,3,eng:2 tur:1,partial
+jpx,,3,0,0,3,,3,eng:3,mislabel
+fan,Fang (Equatorial Guinea),3,0,0,3,,3,eng:3,mislabel
+kos,Kosraean,3,0,0,3,,3,eng:3,mislabel
+koi,Komi-Permyak,3,0,0,3,,3,eng:3,mislabel
+dhv,Dehu,3,0,0,3,,3,eng:2 ara:1,mislabel
+tjr,,3,0,0,3,,3,zho:2 zhn:1,mislabel
+bou,Bondei,3,0,0,3,,3,eng:2 fra:1,mislabel
+nng,Maring Naga,3,0,0,3,,3,fra:1 vie:1 zho:1,mislabel
+yka,Yakan,3,0,0,3,,3,eng:3,ok
+kuk,Kepo',3,0,0,3,,3,eng:3,mislabel
+tum,Tumbuka,3,0,0,3,,3,eng:3,partial
+ssw,Swati,3,0,0,3,,3,eng:3,ok
+gax,Borana-Arsi-Guji Oromo,3,0,0,3,,3,eng:2 ben:1,mislabel
+cab,Garifuna,3,0,0,3,,3,spa:2 eng:1,partial
+bjn,Banjar,3,0,0,3,,3,ind:3,partial
+sav,Saafi-Saafi,3,0,0,3,,3,tel:2 eng:1,mislabel
+skx,Seko Padang,3,0,0,3,,3,eng:2 ind:1,partial
+mrs,Maragus,3,0,0,3,,3,eng:2 ind:1,mislabel
+mme,Tirax,3,0,0,3,,3,ind:2 eng:1,mislabel
+blc,Bella Coola,3,0,0,3,,3,vie:2 eng:1,mislabel
+dah,Gwahatike,3,0,0,3,,3,eng:3,mislabel
+nch,Central Huasteca Nahuatl,3,0,0,3,,3,eng:2 spa:1,mislabel
+tlo,Tasomi-Tata,3,0,0,3,,3,eng:3,mislabel
+kay,Kamayurá,3,0,0,3,,3,por:2 eng:1,mislabel
+tus,Tuscarora,3,0,0,3,,3,eng:3,ok
+jph,,3,0,0,3,,3,fra:3,ok
+neg,Negidal,3,0,0,3,,3,rus:3,ok
+kht,Khamti,3,0,0,3,,3,eng:2 fra:1,mislabel
+dga,Central Dagaare,3,0,0,3,,3,eng:3,partial
+twr,Southwestern Tarahumara,3,0,0,3,,3,eng:3,mislabel
+sla,,19,89,17,2,1.12,19,deu:1 eng:1,mislabel
+awa,Awadhi,19,89,17,2,1.12,19,hin:1 eng:1,ok
+ltz,Moselle Franconian,15,87,13,2,1.15,15,deu:1 fra:1,partial
+frs,German Northern Low Saxon,14,86,12,2,1.17,14,goh:1 epo:1,ok
+gvr,Gurung,14,86,12,2,1.17,14,eng:2,ok
+bfa,Bari,13,85,11,2,1.18,13,fra:2,mislabel
+kok,,12,83,10,2,1.2,12,eng:1 san:1,partial
+sme,North Saami,11,82,9,2,1.22,11,eng:1 nor:1,partial
+sks,Maia,10,80,8,2,1.25,10,eng:1 zsm:1,mislabel
+apc,Levantine Arabic,10,80,8,2,1.25,10,san:1 hin:1,mislabel
+kek,Q'eqchi',10,80,8,2,1.25,10,eng:2,ok
+iku,,9,78,7,2,1.29,9,eng:2,ok
+mhr,Eastern Mari,8,75,6,2,1.33,8,rus:1 eng:1,partial
+chj,Ojitlán Chinantec,8,75,6,2,1.33,8,spa:2,mislabel
+msk,Mansaka,8,75,6,2,1.33,8,eng:2,ok
+mun,,7,71,5,2,1.4,7,spa:1 ind:1,mislabel
+vec,Venetian,7,71,5,2,1.4,7,ita:1 eng:1,ok
+agr,Aguaruna,7,71,5,2,1.4,7,spa:1 esl:1,ok
+lbe,Lak,7,71,5,2,1.4,7,rus:1 eng:1,partial
+krc,Karachay-Balkar,7,71,5,2,1.4,7,tur:1 aze:1,ok
+mas,Masai,6,67,4,2,1.5,6,eng:1 fra:1,ok
+zgh,,6,67,4,2,1.5,6,fra:2,mislabel
+ane,Xârâcùù,6,67,4,2,1.5,6,eng:2,mislabel
+sra,Saruga,6,67,4,2,1.5,6,eng:2,mislabel
+pot,Potawatomi,6,67,4,2,1.5,6,eng:2,ok
+yaa,Yaminahua,6,67,4,2,1.5,6,eng:2,partial
+mak,Makasar,6,67,4,2,1.5,6,ind:2,ok
+see,Seneca,6,67,4,2,1.5,6,zhn:1 zho:1,mislabel
+huz,Hunzib,5,60,3,2,1.67,5,spa:1 eng:1,mislabel
+nic,,5,60,3,2,1.67,5,eng:2,mislabel
+lhu,Lahu,5,60,3,2,1.67,5,eng:2,ok
+kua,Kuanyama,5,60,3,2,1.67,5,eng:1 deu:1,partial
+rui,Rufiji,5,60,3,2,1.67,5,zsm:2,mislabel
+bga,Gwamhi-Wuri,5,60,3,2,1.67,5,eng:2,mislabel
+sog,Sogdian,5,60,3,2,1.67,5,fas:1 lat:1,partial
+kud,'Auhelawa,5,60,3,2,1.67,5,eng:2,mislabel
+tem,Timne,5,60,3,2,1.67,5,eng:2,mislabel
+mop,Mopan,5,60,3,2,1.67,5,spa:2,ok
+tim,Timbe,5,60,3,2,1.67,5,eng:2,mislabel
+toj,Tojolabal,5,60,3,2,1.67,5,spa:2,ok
+nuk,Nuu-chah-nulth,4,50,2,2,2.0,4,eng:2,partial
+cak,Kaqchikel,4,50,2,2,2.0,4,spa:2,partial
+sed,Sedang,4,50,2,2,2.0,4,eng:1 vie:1,ok
+nog,Nogai,4,50,2,2,2.0,4,eng:1 tur:1,partial
+mey,Hassaniyya,4,50,2,2,2.0,4,eng:2,mislabel
+shs,Shuswap,4,50,2,2,2.0,4,eng:2,ok
+kbd,Kabardian,4,50,2,2,2.0,4,eng:2,ok
+dag,Dagbani,4,50,2,2,2.0,4,eng:2,partial
+muy,Muyang,4,50,2,2,2.0,4,eng:2,partial
+tao,Yami,4,50,2,2,2.0,4,zho:1 spa:1,mislabel
+dng,Dungan,4,50,2,2,2.0,4,rus:2,ok
+abz,Abui,4,50,2,2,2.0,4,eng:2,partial
+kns,Kensiu,4,50,2,2,2.0,4,eng:2,partial
+snk,Soninke,4,50,2,2,2.0,4,eng:2,ok
+urh,Urhobo,4,50,2,2,2.0,4,eng:2,ok
+mpu,Makuráp,4,50,2,2,2.0,4,eng:1 ind:1,mislabel
+gan,Gan Chinese,4,50,2,2,2.0,4,eng:2,partial
+tzl,Talossan,4,50,2,2,2.0,4,kaq:1 spa:1,mislabel
+bjd,Bandjigali,4,50,2,2,2.0,4,eng:2,mislabel
+pon,Pohnpeian,4,50,2,2,2.0,4,eng:2,partial
+osa,Osage,4,50,2,2,2.0,4,eng:2,ok
+hyw,Western Armenian,4,50,2,2,2.0,4,eng:2,ok
+ofs,Old Frisian,4,50,2,2,2.0,4,deu:1 eng:1,ok
+ckt,Chukchi,4,50,2,2,2.0,4,rus:1 eng:1,ok
+ful,,4,50,2,2,2.0,4,eng:2,ok
+mol,,4,50,2,2,2.0,4,rus:2,mislabel
+gur,Farefare,4,50,2,2,2.0,4,eng:2,mislabel
+syc,Classical Syriac,4,50,2,2,2.0,4,eng:2,ok
+tkt,Kathoriya Tharu,4,50,2,2,2.0,4,spa:2,mislabel
+teh,Tehuelche,3,33,1,2,3.0,3,eng:1 spa:1,partial
+pur,Puruborá,3,33,1,2,3.0,3,spa:1 eng:1,mislabel
+atg,Ivbie North-Okpela-Arhe,3,33,1,2,3.0,3,eng:2,mislabel
+kwa,Dâw,3,33,1,2,3.0,3,eng:2,mislabel
+gor,Gorontalo,3,33,1,2,3.0,3,eng:2,partial
+phl,Palula,3,33,1,2,3.0,3,eng:2,mislabel
+saw,Sawi,3,33,1,2,3.0,3,eng:2,mislabel
+dar,North-Central Dargwa,3,33,1,2,3.0,3,eng:1 rus:1,partial
+luy,,3,33,1,2,3.0,3,eng:2,mislabel
+tka,Truká,3,33,1,2,3.0,3,eng:2,mislabel
+ese,Ese Ejja,3,33,1,2,3.0,3,eng:1 fra:1,ok
+pao,Northern Paiute,3,33,1,2,3.0,3,eng:2,partial
+guy,,3,33,1,2,3.0,3,eng:1 spa:1,mislabel
+akl,Aklanon,3,33,1,2,3.0,3,eng:2,partial
+bwa,Bwatoo,3,33,1,2,3.0,3,eng:1 fra:1,mislabel
+rap,Rapanui,3,33,1,2,3.0,3,eng:1 spa:1,ok
+bdq,Bahnar,3,33,1,2,3.0,3,eng:2,ok
+kms,Kamasau,3,33,1,2,3.0,3,eng:2,ok
+bde,Bade,3,33,1,2,3.0,3,fra:1 eng:1,partial
+bub,Bua,3,33,1,2,3.0,3,spa:2,mislabel
+rar,Southern Cook Island Maori,3,33,1,2,3.0,3,fra:1 eng:1,partial
+sot,Southern Sotho,3,33,1,2,3.0,3,eng:2,ok
+bng,Benga,3,33,1,2,3.0,3,eng:1 spa:1,partial
+hai,,3,33,1,2,3.0,3,eng:2,mislabel
+trv,Seediq,3,33,1,2,3.0,3,zsm:1 zhn:1,ok
+yur,Yurok,3,33,1,2,3.0,3,eng:2,ok
+tar,Central Tarahumara,3,33,1,2,3.0,3,por:1 zsm:1,mislabel
+kjh,Khakas,3,33,1,2,3.0,3,eng:1 tur:1,ok
+tek,Kwa South,3,33,1,2,3.0,3,fra:1 spa:1,mislabel
+lac,Lacandon,3,33,1,2,3.0,3,eng:1 spa:1,ok
+rue,Rusyn,3,33,1,2,3.0,3,rus:1 eng:1,ok
+nzi,Nzima,3,33,1,2,3.0,3,eng:2,ok
+dja,,3,33,1,2,3.0,3,eng:2,mislabel
+inu,,3,33,1,2,3.0,3,fra:1 eng:1,mislabel
+nde,Zimbabwean Ndebele,3,33,1,2,3.0,3,eng:2,partial
+sgo,Songa,3,33,1,2,3.0,3,eng:2,mislabel
+jrb,,2,0,0,2,,2,eng:2,mislabel
+pnu,Jiongnai Bunu,2,0,0,2,,2,eng:1 fra:1,mislabel
+cpe,,2,0,0,2,,2,eng:1 fra:1,mislabel
+chn,Creolized Grand Ronde Chinook Jargon,2,0,0,2,,2,eng:1 vie:1,partial
+kru,Kurukh,2,0,0,2,,2,eng:2,ok
+iqt,,2,0,0,2,,2,spa:2,mislabel
+bku,Buhid,2,0,0,2,,2,ind:1 eng:1,mislabel
+lon,Malawi Lomwe,2,0,0,2,,2,eng:2,mislabel
+cur,Chhulung,2,0,0,2,,2,eng:2,mislabel
+cyx,,2,0,0,2,,2,eng:2,mislabel
+kyu,Western Kayah,2,0,0,2,,2,eng:2,ok
+phg,Phuong,2,0,0,2,,2,eng:2,mislabel
+gay,Gayo,2,0,0,2,,2,ind:2,ok
+ncb,Central Nicobarese,2,0,0,2,,2,eng:2,ok
+pnb,Western Panjabi,2,0,0,2,,2,eng:2,ok
+iat,,2,0,0,2,,2,eng:2,mislabel
+hmb,Humburi Senni Songhay,2,0,0,2,,2,spa:2,mislabel
+msi,Sabah Malay,2,0,0,2,,2,eng:2,mislabel
+ktn,Karitiana,2,0,0,2,,2,por:1 ban:1,mislabel
+cay,Cayuga,2,0,0,2,,2,spa:1 eng:1,partial
+bql,Karen,2,0,0,2,,2,eng:2,mislabel
+yem,,2,0,0,2,,2,eng:1 fra:1,mislabel
+kuz,Kunza,2,0,0,2,,2,eng:1 spa:1,partial
+khv,Khwarshi-Inkhoqwari,2,0,0,2,,2,eng:2,mislabel
+sdl,Saudi Arabian Sign Language,2,0,0,2,,2,eng:2,mislabel
+gld,Nanai,2,0,0,2,,2,rus:1 tur:1,ok
+was,Washo,2,0,0,2,,2,eng:2,ok
+agd,Agarabi,2,0,0,2,,2,eng:2,ok
+lmb,Merei,2,0,0,2,,2,eng:2,mislabel
+hup,Hupa-Chilula,2,0,0,2,,2,eng:2,ok
+sas,Sasak,2,0,0,2,,2,ind:2,ok
+nqo,N'Ko,2,0,0,2,,2,eng:1 fra:1,mislabel
+nnt,Nanticoke,2,0,0,2,,2,eng:2,ok
+thp,Thompson,2,0,0,2,,2,eng:2,ok
+nga,Ngbaka Minagende,2,0,0,2,,2,eng:2,mislabel
+mbo,Mbo (Cameroon),2,0,0,2,,2,fra:1 ind:1,mislabel
+gnh,Lere,2,0,0,2,,2,fra:2,mislabel
+cui,Cuiba,2,0,0,2,,2,eng:1 spa:1,partial
+ing,Degexit'an,2,0,0,2,,2,rus:1 eng:1,partial
+knd,Yaben (Konda),2,0,0,2,,2,fra:1 eng:1,mislabel
+iro,,2,0,0,2,,2,fra:1 eng:1,mislabel
+hak,Hakka Chinese,2,0,0,2,,2,eng:2,ok
+toi,Tonga (Zambia),2,0,0,2,,2,eng:2,ok
+bnt,,2,0,0,2,,2,eng:2,mislabel
+soq,Kanasi,2,0,0,2,,2,mah:1 eng:1,mislabel
+hbs,Serbian-Croatian-Bosnian,2,0,0,2,,2,eng:2,ok
+liv,Liv,2,0,0,2,,2,eng:1 lav:1,partial
+bdr,West Coast Bajau,2,0,0,2,,2,eng:2,mislabel
+smj,Lule Saami,2,0,0,2,,2,eng:1 deu:1,partial
+twm,Tawang Monpa,2,0,0,2,,2,eng:2,mislabel
+lyd,,2,0,0,2,,2,eng:1 deu:1,mislabel
+wit,Wintu,2,0,0,2,,2,eng:1 spa:1,partial
+lue,Luvale,2,0,0,2,,2,eng:2,mislabel
+kgn,Karingani-Kalasuri-Khoynarudi,2,0,0,2,,2,por:2,mislabel
+chd,Highland Oaxaca Chontal,2,0,0,2,,2,eng:2,mislabel
+cup,Cupeño,2,0,0,2,,2,eng:2,ok
+len,,2,0,0,2,,2,fra:1 eng:1,mislabel
+mns,Northern Mansi,2,0,0,2,,2,eng:2,mislabel
+mru,Mono (Cameroon),2,0,0,2,,2,spa:2,mislabel
+rem,Remo of the Moa river,2,0,0,2,,2,ngk:1 eng:1,mislabel
+xug,Kunigami,2,0,0,2,,2,deu:2,mislabel
+smp,Samaritan,2,0,0,2,,2,eng:2,partial
+gbr,Gbagyi,2,0,0,2,,2,eng:2,mislabel
+mch,Ye'kwana,2,0,0,2,,2,spa:2,mislabel
+kmm,Kom (India),2,0,0,2,,2,eng:2,mislabel
+ibb,Ibibio,2,0,0,2,,2,eng:2,ok
+luc,Aringa,2,0,0,2,,2,eng:1 fra:1,mislabel
+dhu,Dhurga,2,0,0,2,,2,swa:1 eng:1,mislabel
+hus,Huastec,2,0,0,2,,2,eng:2,ok
+tiq,Tiefo-Daramandugu,2,0,0,2,,2,eng:2,mislabel
+yay,Agwagwune,2,0,0,2,,2,zho:1 eng:1,mislabel
+kdg,Seba,2,0,0,2,,2,eng:2,mislabel
+ash,Aewa,2,0,0,2,,2,eng:1 spa:1,mislabel
+sir,Siri,2,0,0,2,,2,spa:1 eng:1,partial
+khg,Khams Tibetan,2,0,0,2,,2,eng:2,mislabel
+nnd,West Ambae,2,0,0,2,,2,eng:2,mislabel
+rab,Camling,2,0,0,2,,2,eng:2,mislabel
+glo,Galambu,2,0,0,2,,2,fra:1 eng:1,mislabel
+sba,Ngambay,2,0,0,2,,2,eng:2,mislabel
+eve,Even,2,0,0,2,,2,rus:2,ok
+tsh,Tsuvan,2,0,0,2,,2,eng:1 dzo:1,mislabel
+sei,Seri,2,0,0,2,,2,spa:1 eng:1,ok
+lmp,Limbum,2,0,0,2,,2,ind:2,mislabel
+xmf,Mingrelian,2,0,0,2,,2,kat:1 eng:1,partial
+opm,Oksapmin,2,0,0,2,,2,eng:2,ok
+moo,Monom,2,0,0,2,,2,ind:2,mislabel
+bim,Bimoba,2,0,0,2,,2,ind:2,mislabel
+wle,Wolane,2,0,0,2,,2,eng:2,mislabel
+onp,Sartang,2,0,0,2,,2,eng:2,mislabel
+iqu,Iquito,2,0,0,2,,2,que:1 eng:1,ok
+cah,Cahuarano,2,0,0,2,,2,eng:2,mislabel
+mud,Mednyj Aleut,2,0,0,2,,2,eng:2,mislabel
+idn,,2,0,0,2,,2,eng:2,mislabel
+mox,Molima,2,0,0,2,,2,fra:1 eng:1,mislabel
+ngd,Ngando (Central African Republic),2,0,0,2,,2,eng:2,mislabel
+yog,Yogad,2,0,0,2,,2,eng:2,mislabel
+mry,Mandaya,2,0,0,2,,2,fra:2,mislabel
+lor,Téén,2,0,0,2,,2,eng:2,mislabel
+krx,Karon,2,0,0,2,,2,ind:2,mislabel
+wmp,,2,0,0,2,,2,eng:2,mislabel
+tot,Patla-Chicontla Totonac,2,0,0,2,,2,eng:1 spa:1,ok
+deh,Dehwari,2,0,0,2,,2,eng:2,mislabel
+neh,Upper Mangdep,2,0,0,2,,2,eng:2,mislabel
+cmr,Mro Chin,2,0,0,2,,2,eng:2,mislabel
+nno,,9,89,8,1,1.12,9,non:1,ok
+wam,Wampanoag,9,89,8,1,1.12,9,enm:1,ok
+bos,,9,89,8,1,1.12,9,eng:1,partial
+pwn,Paiwan,9,89,8,1,1.12,9,fra:1,ok
+ksi,I'saka,8,88,7,1,1.14,8,eng:1,mislabel
+ojs,Severn Ojibwa,8,88,7,1,1.14,8,eng:1,ok
+pow,San Felipe Otlaltepec Popoloca,8,88,7,1,1.14,8,eng:1,mislabel
+lij,Ligurian,8,88,7,1,1.14,8,eng:1,ok
+twi,,7,86,6,1,1.17,7,eng:1,partial
+alq,Algonquin,7,86,6,1,1.17,7,eng:1,ok
+lmo,Lombard,6,83,5,1,1.2,6,fra:1,partial
+ltg,,6,83,5,1,1.2,6,deu:1,mislabel
+srd,,6,83,5,1,1.2,6,san:1,mislabel
+lug,Ganda,6,83,5,1,1.2,6,eng:1,ok
+ojc,Central Ojibwa,5,80,4,1,1.25,5,eng:1,ok
+amb,Ambo,5,80,4,1,1.25,5,eng:1,partial
+bax,Bamun,5,80,4,1,1.25,5,eng:1,mislabel
+ast,Asturian-Leonese-Cantabrian,5,80,4,1,1.25,5,por:1,ok
+skr,Saraiki,5,80,4,1,1.25,5,eng:1,ok
+chx,Chantyal,5,80,4,1,1.25,5,eng:1,partial
+cul,Culina,5,80,4,1,1.25,5,spa:1,ok
+otq,Querétaro Otomi,5,80,4,1,1.25,5,eng:1,mislabel
+zai,Isthmus Zapotec,5,80,4,1,1.25,5,eng:1,partial
+lus,Mizo,4,75,3,1,1.33,4,eng:1,ok
+chg,Chagatai,4,75,3,1,1.33,4,eng:1,partial
+ari,Arikara,4,75,3,1,1.33,4,rus:1,partial
+srs,Sarsi,4,75,3,1,1.33,4,eng:1,partial
+mdf,Moksha,4,75,3,1,1.33,4,rus:1,ok
+pms,Piemontese,4,75,3,1,1.33,4,ita:1,unverifiable
+mki,Dhatki,4,75,3,1,1.33,4,eng:1,partial
+kng,South-Central Koongo,4,75,3,1,1.33,4,eng:1,mislabel
+fur,Friulian,4,75,3,1,1.33,4,eng:1,ok
+tzh,Tzeltal,4,75,3,1,1.33,4,spa:1,ok
+bat,,4,75,3,1,1.33,4,eng:1,mislabel
+rot,,4,75,3,1,1.33,4,eng:1,mislabel
+syl,Sylheti,4,75,3,1,1.33,4,eng:1,ok
+amc,Amahuaca,4,75,3,1,1.33,4,spa:1,ok
+omi,Omi,4,75,3,1,1.33,4,eng:1,partial
+wao,Wappo,4,75,3,1,1.33,4,eng:1,partial
+agu,Aguacateco,4,75,3,1,1.33,4,rus:1,mislabel
+div,Dhivehi,4,75,3,1,1.33,4,eng:1,ok
+chb,Chibcha,4,75,3,1,1.33,4,spa:1,mislabel
+kic,Kickapoo,4,75,3,1,1.33,4,eng:1,mislabel
+hbo,Ancient Hebrew,4,75,3,1,1.33,4,eng:1,partial
+plt,Plateau Malagasy,4,75,3,1,1.33,4,eng:1,ok
+jdo,,4,75,3,1,1.33,4,fra:1,mislabel
+ren,Rengao,3,67,2,1,1.5,3,eng:1,partial
+srt,Sauri,3,67,2,1,1.5,3,eng:1,mislabel
+tah,Tahitian,3,67,2,1,1.5,3,eng:1,ok
+mwr,,3,67,2,1,1.5,3,vie:1,mislabel
+shw,Shwai,3,67,2,1,1.5,3,eng:1,mislabel
+jeh,Jeh,3,67,2,1,1.5,3,eng:1,partial
+sen,Nanerigé Sénoufo,3,67,2,1,1.5,3,eng:1,mislabel
+sxt,,3,67,2,1,1.5,3,nld:1,mislabel
+yug,Yugh,3,67,2,1,1.5,3,eng:1,partial
+pru,Iwaro,3,67,2,1,1.5,3,eng:1,partial
+vai,Vai,3,67,2,1,1.5,3,eng:1,mislabel
+nso,Pedi,3,67,2,1,1.5,3,eng:1,partial
+kbp,Kabiyé,3,67,2,1,1.5,3,ind:1,mislabel
+mrw,Maranao,3,67,2,1,1.5,3,eng:1,partial
+kam,Kamba (Kenya),3,67,2,1,1.5,3,ara:1,partial
+efi,Efik,3,67,2,1,1.5,3,eng:1,partial
+bxr,Russia Buriat,3,67,2,1,1.5,3,tur:1,ok
+ala,Alago,3,67,2,1,1.5,3,fra:1,mislabel
+crw,Chrau,3,67,2,1,1.5,3,eng:1,partial
+tna,Tacana,3,67,2,1,1.5,3,spa:1,ok
+lfn,Lingua Franca Nova,3,67,2,1,1.5,3,eng:1,partial
+hry,,3,67,2,1,1.5,3,eng:1,mislabel
+xav,Xavánte,3,67,2,1,1.5,3,por:1,ok
+grt,Garo,3,67,2,1,1.5,3,eng:1,ok
+tso,Tsonga,3,67,2,1,1.5,3,fra:1,ok
+csh,Asho Chin,3,67,2,1,1.5,3,por:1,unverifiable
+rov,,3,67,2,1,1.5,3,eng:1,mislabel
+snh,Shinabo,3,67,2,1,1.5,3,eng:1,mislabel
+bad,,3,67,2,1,1.5,3,fra:1,mislabel
+ntj,Ngaanyatjarra,3,67,2,1,1.5,3,eng:1,ok
+aln,Gheg Albanian,3,67,2,1,1.5,3,ind:1,mislabel
+isg,Irish Sign Language,3,67,2,1,1.5,3,eng:1,mislabel
+iwj,,3,67,2,1,1.5,3,eng:1,mislabel
+aiw,Aari,3,67,2,1,1.5,3,eng:1,mislabel
+ram,Central-Southern Timbira,3,67,2,1,1.5,3,eng:1,mislabel
+yap,Yapese,3,67,2,1,1.5,3,eng:1,partial
+hdi,,2,50,1,1,2.0,2,fra:1,mislabel
+sou,Southern Thai,2,50,1,1,2.0,2,fra:1,mislabel
+pio,Piapoco,2,50,1,1,2.0,2,eng:1,ok
+ykn,Kua-nsi,2,50,1,1,2.0,2,eng:1,mislabel
+bhb,Bhili,2,50,1,1,2.0,2,eng:1,ok
+mza,Santa María Zacatepec Mixtec,2,50,1,1,2.0,2,spa:1,partial
+toq,Toposa,2,50,1,1,2.0,2,eng:1,mislabel
+wba,Warao,2,50,1,1,2.0,2,eng:1,ok
+otm,Eastern Highland Otomi,2,50,1,1,2.0,2,spa:1,ok
+cmc,,2,50,1,1,2.0,2,spa:1,mislabel
+kts,South Muyu,2,50,1,1,2.0,2,eng:1,mislabel
+zou,,2,50,1,1,2.0,2,cmn:1,mislabel
+yrl,Nhengatu,2,50,1,1,2.0,2,spa:1,mislabel
+mdd,Mbum,2,50,1,1,2.0,2,eng:1,mislabel
+hru,Hruso,2,50,1,1,2.0,2,ind:1,mislabel
+deg,Degema,2,50,1,1,2.0,2,eng:1,ok
+tzi,,2,50,1,1,2.0,2,fra:1,mislabel
+xtr,,2,50,1,1,2.0,2,deu:1,mislabel
+piz,Pije,2,50,1,1,2.0,2,spa:1,mislabel
+ksh,Kölsch,2,50,1,1,2.0,2,eng:1,partial
+gud,Yocoboué Dida,2,50,1,1,2.0,2,eng:1,mislabel
+oro,Orokolo,2,50,1,1,2.0,2,eng:1,partial
+kho,Khotanese,2,50,1,1,2.0,2,eng:1,ok
+lux,,2,50,1,1,2.0,2,fra:1,mislabel
+hla,Halia,2,50,1,1,2.0,2,eng:1,ok
+bri,Mokpwe,2,50,1,1,2.0,2,spa:1,mislabel
+ape,Bukiyip,2,50,1,1,2.0,2,eng:1,ok
+kaj,Jju,2,50,1,1,2.0,2,eng:1,mislabel
+mda,Mada (Nigeria),2,50,1,1,2.0,2,eng:1,ok
+gaa,Ga,2,50,1,1,2.0,2,eng:1,unverifiable
+max,North Moluccan Malay,2,50,1,1,2.0,2,eng:1,mislabel
+kwe,Kwerba,2,50,1,1,2.0,2,eng:1,mislabel
+yup,Yukpa,2,50,1,1,2.0,2,eng:1,mislabel
+end,Ende,2,50,1,1,2.0,2,eng:1,ok
+mzp,Movima,2,50,1,1,2.0,2,spa:1,ok
+ged,Gade,2,50,1,1,2.0,2,eng:1,mislabel
+agt,Central Cagayan Agta,2,50,1,1,2.0,2,eng:1,mislabel
+xle,Lemnian,2,50,1,1,2.0,2,aze:1,mislabel
+mwl,Mirandese,2,50,1,1,2.0,2,eng:1,partial
+fuv,Hausa States Fulfulde,2,50,1,1,2.0,2,eng:1,mislabel
+miv,Mimi,2,50,1,1,2.0,2,eng:1,mislabel
+ikw,Ikwere,2,50,1,1,2.0,2,eng:1,unverifiable
+huv,San Mateo del Mar Huave,2,50,1,1,2.0,2,spa:1,ok
+ndw,Ndobo,2,50,1,1,2.0,2,por:1,mislabel
+zen,Zenaga,2,50,1,1,2.0,2,fra:1,ok
+cjm,Eastern Cham,2,50,1,1,2.0,2,eng:1,ok
+ark,Arikapú,2,50,1,1,2.0,2,eng:1,mislabel
+ira,,2,50,1,1,2.0,2,eng:1,mislabel
+cac,Chuj,2,50,1,1,2.0,2,spa:1,mislabel
+ter,Terena-Kinikinao-Chane,2,50,1,1,2.0,2,eng:1,mislabel
+ibi,Ibilo,2,50,1,1,2.0,2,eng:1,mislabel
+myx,Masaaba,2,50,1,1,2.0,2,eng:1,mislabel
+nau,Nauru,2,50,1,1,2.0,2,eng:1,ok
+lcb,,2,50,1,1,2.0,2,spa:1,mislabel
+gyr,Guarayu,2,50,1,1,2.0,2,eng:1,ok
+sid,Sidamo,2,50,1,1,2.0,2,eng:1,partial
+urt,Urat,2,50,1,1,2.0,2,deu:1,partial
+chf,Tabasco Chontal,2,50,1,1,2.0,2,eng:1,partial
+mac,,2,50,1,1,2.0,2,por:1,mislabel
+nen,Nengone,2,50,1,1,2.0,2,rus:1,mislabel
+yrb,Yareba,2,50,1,1,2.0,2,eng:1,ok
+dsb,Lower Sorbian,2,50,1,1,2.0,2,eng:1,ok
+sgz,Sursurunga,2,50,1,1,2.0,2,eng:1,ok
+guz,Gusii,2,50,1,1,2.0,2,eng:1,ok
+ura,Urarina,2,50,1,1,2.0,2,ita:1,ok
+ork,Orokaiva (Retired),2,50,1,1,2.0,2,eng:1,ok
+mwh,Mouk-Aria,2,50,1,1,2.0,2,eng:1,mislabel
+nus,Nuer,2,50,1,1,2.0,2,zho:1,partial
+ryu,Central Okinawan,2,50,1,1,2.0,2,eng:1,partial
+amr,Amarakaeri,2,50,1,1,2.0,2,spa:1,partial
+kmo,Kwoma,2,50,1,1,2.0,2,tpi:1,partial
+met,Mato,2,50,1,1,2.0,2,eng:1,unverifiable
+iaa,,2,50,1,1,2.0,2,fra:1,mislabel
+sue,Suena,2,50,1,1,2.0,2,eng:1,ok
+idu,Idoma,2,50,1,1,2.0,2,eng:1,mislabel
+kut,Kutenai,2,50,1,1,2.0,2,eng:1,ok
+khr,Kharia,2,50,1,1,2.0,2,eng:1,ok
+zay,Zayse-Zergulla,2,50,1,1,2.0,2,zhm:1,mislabel
+fla,Kalispel-Pend d'Oreille,2,50,1,1,2.0,2,eng:1,ok
+tea,Temiar,2,50,1,1,2.0,2,eng:1,ok
+ocn,,2,50,1,1,2.0,2,spa:1,mislabel
+crs,Seselwa Creole French,2,50,1,1,2.0,2,fra:1,ok
+pul,,2,50,1,1,2.0,2,eng:1,mislabel
+dru,Rukai,2,50,1,1,2.0,2,eng:1,mislabel
+dun,Dusun Deyah,2,50,1,1,2.0,2,eng:1,mislabel
+jib,Jibu,2,50,1,1,2.0,2,eng:1,mislabel
+ozm,Koonzime,2,50,1,1,2.0,2,eng:1,ok
+ngi,Ngizim,2,50,1,1,2.0,2,eng:1,ok
+pyu,Puyuma,2,50,1,1,2.0,2,eng:1,unverifiable
+mdw,Mbosi,2,50,1,1,2.0,2,eng:1,mislabel
+gjr,Gurindji Kriol,2,50,1,1,2.0,2,hin:1,mislabel
+sad,Sandawe,2,50,1,1,2.0,2,ory:1,mislabel
+thk,Tharaka,2,50,1,1,2.0,2,gvr:1,mislabel
+ton,Tonga (Tonga Islands),1,0,0,1,,1,eng:1,mislabel
+duh,Dungra Bhil,1,0,0,1,,1,eng:1,mislabel
+srn,Sranan Tongo,1,0,0,1,,1,sra:1,ok
+wik,Wikalkan,1,0,0,1,,1,eng:1,mislabel
+mtp,Weenhayek,1,0,0,1,,1,eng:1,mislabel
+fuu,Furu,1,0,0,1,,1,eng:1,mislabel
+cad,Caddo,1,0,0,1,,1,eng:1,ok
+dow,Doyayo,1,0,0,1,,1,fra:1,ok
+anw,Anaang,1,0,0,1,,1,eng:1,unverifiable
+ket,Ket,1,0,0,1,,1,deu:1,unverifiable
+bgr,Bawm Chin,1,0,0,1,,1,eng:1,mislabel
+awy,Edera Awyu,1,0,0,1,,1,eng:1,mislabel
+ano,Andoque,1,0,0,1,,1,spa:1,ok
+suw,Sumbwa,1,0,0,1,,1,ind:1,mislabel
+nih,Nyiha (Tanzania),1,0,0,1,,1,eng:1,mislabel
+adn,Adang,1,0,0,1,,1,eng:1,mislabel
+agx,Aghul,1,0,0,1,,1,rus:1,ok
+cos,Corsican,1,0,0,1,,1,eng:1,ok
+wos,Hanga Hundi,1,0,0,1,,1,eng:1,mislabel
+haz,Hazaragi,1,0,0,1,,1,eng:1,ok
+hul,Hula,1,0,0,1,,1,eng:1,mislabel
+bci,Baoulé,1,0,0,1,,1,fra:1,ok
+mte,Mono-Alu,1,0,0,1,,1,eng:1,mislabel
+gnt,Warta Thuntai,1,0,0,1,,1,eng:1,mislabel
+fol,,1,0,0,1,,1,eng:1,mislabel
+mlw,Moloko,1,0,0,1,,1,eng:1,mislabel
+mbe,Molale,1,0,0,1,,1,fra:1,unverifiable
+sma,South Saami,1,0,0,1,,1,eng:1,mislabel
+kub,Kutep,1,0,0,1,,1,eng:1,unverifiable
+lax,Tiwa (India),1,0,0,1,,1,cmn:1,mislabel
+chl,Cahuilla,1,0,0,1,,1,eng:1,ok
+ibg,Ibanag,1,0,0,1,,1,spa:1,ok
+aui,Anuki,1,0,0,1,,1,eng:1,mislabel
+wem,Weme Gbe,1,0,0,1,,1,eng:1,unverifiable
+waw,Waiwai,1,0,0,1,,1,eng:1,mislabel
+git,Gitxsan,1,0,0,1,,1,eng:1,ok
+mvr,Marau,1,0,0,1,,1,eng:1,mislabel
+muc,Ajumbu,1,0,0,1,,1,eng:1,mislabel
+mna,Mbula,1,0,0,1,,1,ind:1,mislabel
+bmb,Bembe,1,0,0,1,,1,fra:1,mislabel
+xar,Karami,1,0,0,1,,1,eng:1,mislabel
+yql,,1,0,0,1,,1,spa:1,mislabel
+brr,Birao,1,0,0,1,,1,nep:1,mislabel
+iwa,,1,0,0,1,,1,eng:1,mislabel
+khi,,1,0,0,1,,1,eng:1,mislabel
+pnd,Mpinda,1,0,0,1,,1,eng:1,mislabel
+mka,Mbre,1,0,0,1,,1,eng:1,mislabel
+fag,Finongan,1,0,0,1,,1,eng:1,ok
+dje,Zarma-Kaado,1,0,0,1,,1,eng:1,ok
+kll,Kagan Kalagan,1,0,0,1,,1,eng:1,mislabel
+pnt,Pontic,1,0,0,1,,1,fra:1,ok
+niu,Niuean,1,0,0,1,,1,eng:1,ok
+kma,Konni,1,0,0,1,,1,eng:1,ok
+hrx,Hunsrik,1,0,0,1,,1,por:1,ok
+xki,Kenya-Somali Sign Language,1,0,0,1,,1,eng:1,mislabel
+rik,,1,0,0,1,,1,por:1,mislabel
+tod,Toma,1,0,0,1,,1,eng:1,mislabel
+dup,Duano,1,0,0,1,,1,eng:1,mislabel
+coc,Cocopa,1,0,0,1,,1,eng:1,ok
+kwi,Awa-Cuaiquer,1,0,0,1,,1,ind:1,mislabel
+nyn,Nyankole,1,0,0,1,,1,eng:1,mislabel
+ign,Ignaciano,1,0,0,1,,1,spa:1,ok
+cyv,,1,0,0,1,,1,eng:1,mislabel
+alt,Southern Altai,1,0,0,1,,1,rus:1,ok
+kxv,Kuvi,1,0,0,1,,1,eng:1,mislabel
+ffu,,1,0,0,1,,1,fra:1,mislabel
+yul,Yulu-Binga,1,0,0,1,,1,eng:1,mislabel
+krt,Tumari Kanuri,1,0,0,1,,1,eng:1,mislabel
+slc,Sáliba,1,0,0,1,,1,deu:1,mislabel
+toa,,1,0,0,1,,1,eng:1,mislabel
+nac,Narak,1,0,0,1,,1,eng:1,ok
+sxw,Saxwe Gbe,1,0,0,1,,1,eng:1,mislabel
+har,Harari,1,0,0,1,,1,eng:1,ok
+ker,Kera,1,0,0,1,,1,eng:1,mislabel
+tac,Western Tarahumara,1,0,0,1,,1,eng:1,mislabel
+akq,Ak,1,0,0,1,,1,eng:1,mislabel
+tqi,,1,0,0,1,,1,spa:1,mislabel
+tdk,Tambas,1,0,0,1,,1,eng:1,mislabel
+suk,Sukuma,1,0,0,1,,1,spa:1,mislabel
+mod,Mobilian,1,0,0,1,,1,eng:1,mislabel
+onm,,1,0,0,1,,1,eng:1,mislabel
+nxu,Narau,1,0,0,1,,1,iii:1,mislabel
+pbi,Parkwa,1,0,0,1,,1,eng:1,unverifiable
+jla,,1,0,0,1,,1,wol:1,mislabel
+skt,Sakata,1,0,0,1,,1,eng:1,mislabel
+bzu,Burmeso,1,0,0,1,,1,fra:1,mislabel
+zoh,Chimalapa Zoque,1,0,0,1,,1,spa:1,ok
+lou,Louisiana Creole French,1,0,0,1,,1,eng:1,mislabel
+iam,,1,0,0,1,,1,eng:1,mislabel
+lhd,,1,0,0,1,,1,eng:1,mislabel
+hav,Havu,1,0,0,1,,1,fra:1,ok
+uve,West Uvean,1,0,0,1,,1,eng:1,mislabel
+brh,Brahui,1,0,0,1,,1,eng:1,ok
+kuv,Kur,1,0,0,1,,1,eng:1,mislabel
+piw,Pimbwe,1,0,0,1,,1,eng:1,ok
+ssa,,1,0,0,1,,1,eng:1,mislabel
+ore,Maijiki,1,0,0,1,,1,spa:1,ok
+tsp,Northern Toussian,1,0,0,1,,1,eng:1,mislabel
+oga,,1,0,0,1,,1,ind:1,mislabel
+thi,,1,0,0,1,,1,eng:1,unverifiable
+woo,Manombai,1,0,0,1,,1,eng:1,mislabel
+naf,Nabak,1,0,0,1,,1,eng:1,unverifiable
+puu,Punu,1,0,0,1,,1,eng:1,mislabel
+rog,Northern Roglai,1,0,0,1,,1,vie:1,ok
+var,Huarijio,1,0,0,1,,1,eng:1,mislabel
+nia,Nias,1,0,0,1,,1,ind:1,ok
+oku,Oku,1,0,0,1,,1,eng:1,mislabel
+mil,Peñoles Mixtec,1,0,0,1,,1,deu:1,mislabel
+lau,Laba,1,0,0,1,,1,eng:1,unverifiable
+yuh,,1,0,0,1,,1,por:1,mislabel
+giz,South Giziga,1,0,0,1,,1,eng:1,mislabel
+vph,,1,0,0,1,,1,eng:1,mislabel
+ngl,Mozambique Lomwe,1,0,0,1,,1,eng:1,mislabel
+sul,,1,0,0,1,,1,eng:1,mislabel
+wkm,,1,0,0,1,,1,eng:1,mislabel
+kld,Yuwaalaraay-Gamilaraay,1,0,0,1,,1,eng:1,unverifiable
+hdy,Hadiyya,1,0,0,1,,1,eng:1,ok
+ndu,Dugun,1,0,0,1,,1,fra:1,unverifiable
+tzm,Central Moroccan Berber,1,0,0,1,,1,eng:1,ok
+agb,Legbo,1,0,0,1,,1,eng:1,mislabel
+ncr,Ncane-Mungong,1,0,0,1,,1,eng:1,ok
+bje,Biao-Jiao Mien,1,0,0,1,,1,bra:1,mislabel
+hbn,Ebang,1,0,0,1,,1,eng:1,mislabel
+bne,Bintauna,1,0,0,1,,1,eng:1,mislabel
+sae,Sabanê,1,0,0,1,,1,por:1,mislabel
+hwa,Wané,1,0,0,1,,1,spa:1,mislabel
+nhv,Temascaltepec Nahuatl,1,0,0,1,,1,spa:1,ok
+qui,Quileute,1,0,0,1,,1,eng:1,ok
+orc,Orma,1,0,0,1,,1,rus:1,mislabel
+wlm,,1,0,0,1,,1,eng:1,mislabel
+akz,Alabama,1,0,0,1,,1,eng:1,mislabel
+nar,Iguta,1,0,0,1,,1,fra:1,mislabel
+scr,,1,0,0,1,,1,eng:1,mislabel
+kfy,Kumaoni,1,0,0,1,,1,eng:1,mislabel
+dur,Dii,1,0,0,1,,1,ind:1,mislabel
+uli,Ulithian,1,0,0,1,,1,eng:1,ok
+wrs,Waris,1,0,0,1,,1,eng:1,ok
+mut,Western Muria,1,0,0,1,,1,eng:1,mislabel
+dom,,1,0,0,1,,1,fra:1,mislabel
+nrr,Norra,1,0,0,1,,1,eng:1,mislabel
+arw,Lokono,1,0,0,1,,1,eng:1,unverifiable
+gdb,Pottangi Ollar Gadaba,1,0,0,1,,1,ori:1,ok
+gir,Red Gelao,1,0,0,1,,1,eng:1,mislabel
+bay,Batuley,1,0,0,1,,1,eng:1,mislabel
+kgr,Abun,1,0,0,1,,1,eng:1,ok
+ksm,Kumba,1,0,0,1,,1,urd:1,mislabel
+gdw,,1,0,0,1,,1,eng:1,mislabel
+fuc,Pulaar,1,0,0,1,,1,eng:1,mislabel
+itx,Itik,1,0,0,1,,1,eng:1,mislabel
+ydw,,1,0,0,1,,1,eng:1,mislabel
+zua,,1,0,0,1,,1,fra:1,unverifiable
+tji,Northern Tujia,1,0,0,1,,1,eng:1,mislabel
+wah,Watubela,1,0,0,1,,1,eng:1,mislabel
+ojo,,1,0,0,1,,1,eng:1,mislabel
+pac,Pacoh,1,0,0,1,,1,eng:1,ok
+tlx,Khehek,1,0,0,1,,1,ind:1,mislabel
+nux,Mehek,1,0,0,1,,1,eng:1,mislabel
+hmo,Hiri Motu,1,0,0,1,,1,eng:1,ok
+cje,Chru,1,0,0,1,,1,vie:1,ok
+aht,Ahtena,1,0,0,1,,1,eng:1,ok
+can,Chambri,1,0,0,1,,1,fra:1,unverifiable
+yis,Yis,1,0,0,1,,1,eng:1,mislabel
+vur,,1,0,0,1,,1,eng:1,mislabel
+wap,Wapishana,1,0,0,1,,1,eng:1,ok
+mwn,Nyamwanga,1,0,0,1,,1,fra:1,mislabel
+rut,Rutul,1,0,0,1,,1,rus:1,ok
+ksw,S'gaw Karen,1,0,0,1,,1,eng:1,ok
+bav,Vengo,1,0,0,1,,1,eng:1,mislabel
+agj,Argobba,1,0,0,1,,1,eng:1,ok
+mrf,Elseng,1,0,0,1,,1,spa:1,mislabel
+gbe,Niksek,1,0,0,1,,1,fra:1,mislabel
+hls,,1,0,0,1,,1,eng:1,mislabel
+mto,Totontepec Mixe,1,0,0,1,,1,eng:1,mislabel
+jmo,,1,0,0,1,,1,eng:1,mislabel
+her,Herero,1,0,0,1,,1,eng:1,ok
+cun,"K'iche', Cunén",1,0,0,1,,1,spa:1,mislabel
+bag,Tuki,1,0,0,1,,1,fra:1,mislabel
+anv,Denya,1,0,0,1,,1,eng:1,mislabel
+sol,Solos,1,0,0,1,,1,eng:1,mislabel
+mvi,Miyako,1,0,0,1,,1,eng:1,mislabel
+inh,Ingush,1,0,0,1,,1,eng:1,ok
+trc,Copala Triqui,1,0,0,1,,1,spa:1,ok
+hcm,,1,0,0,1,,1,eng:1,mislabel
+sde,Vori,1,0,0,1,,1,eng:1,mislabel
+djk,Aukan,1,0,0,1,,1,eng:1,ok
+ree,Rejang Kayan,1,0,0,1,,1,eng:1,mislabel
+itv,Itawit,1,0,0,1,,1,eng:1,mislabel
+oko,,1,0,0,1,,1,eng:1,unverifiable
+ddo,Tsez,1,0,0,1,,1,eng:1,ok
+pro,Old Provençal,1,0,0,1,,1,tam:1,mislabel
+shy,Chaouia of the Aures,1,0,0,1,,1,fra:1,mislabel
+msb,Masbatenyo,1,0,0,1,,1,eng:1,ok
+bgo,Baga Koga,1,0,0,1,,1,spa:1,mislabel
+big,Biangai,1,0,0,1,,1,eng:1,ok
+zom,Zou,1,0,0,1,,1,eng:1,mislabel
+nse,Nsenga,1,0,0,1,,1,eng:1,unverifiable
+yol,Irish Anglo-Norman,1,0,0,1,,1,eng:1,mislabel
+isi,Nkem-Nkum,1,0,0,1,,1,eng:1,mislabel
+cny,,1,0,0,1,,1,eng:1,mislabel
+odu,Odual,1,0,0,1,,1,eng:1,ok
+juz,,1,0,0,1,,1,eng:1,mislabel
+cuv,Cuvok,1,0,0,1,,1,fra:1,ok
+gnw,Western Bolivian Guaraní,1,0,0,1,,1,fra:1,mislabel
+nyu,Nyungwe,1,0,0,1,,1,eng:1,mislabel
+apt,Apatani,1,0,0,1,,1,eng:1,ok
+awg,Anguthimri,1,0,0,1,,1,eng:1,mislabel
+sob,Sobei,1,0,0,1,,1,ind:1,ok
+ycn,Yucuna,1,0,0,1,,1,spa:1,ok
+pue,Puelche,1,0,0,1,,1,spa:1,ok
+zal,Zauzou,1,0,0,1,,1,eng:1,mislabel
+ofo,Ofo,1,0,0,1,,1,eng:1,mislabel
+tya,Tauya,1,0,0,1,,1,eng:1,mislabel
+lok,Loko,1,0,0,1,,1,eng:1,ok
+cip,Chiapanec,1,0,0,1,,1,eng:1,mislabel
+pox,Polabian,1,0,0,1,,1,spa:1,mislabel
+mpx,Misima-Paneati,1,0,0,1,,1,eng:1,mislabel
+rng,Ronga,1,0,0,1,,1,por:1,ok
+ifb,Batad Ifugao,1,0,0,1,,1,eng:1,ok
+kuu,Upper Kuskokwim,1,0,0,1,,1,kmr:1,mislabel
+zlk,,1,0,0,1,,1,dzo:1,mislabel
+bro,Dur Brokkat,1,0,0,1,,1,eng:1,mislabel
+ngy,Tibea,1,0,0,1,,1,eng:1,mislabel
+cmh,,1,0,0,1,,1,eng:1,unverifiable
+orx,Oro,1,0,0,1,,1,rus:1,mislabel
+bjr,Binumarien,1,0,0,1,,1,eng:1,ok
+ema,Emai-Iuleha-Ora,1,0,0,1,,1,eng:1,ok
+mwk,Kita Maninkakan,1,0,0,1,,1,eng:1,mislabel
+dog,,1,0,0,1,,1,eng:1,mislabel
+jps,,1,0,0,1,,1,eng:1,mislabel
+sea,Semai,1,0,0,1,,1,eng:1,mislabel
+gds,Ghandruk Sign Language,1,0,0,1,,1,eng:1,mislabel
+baj,Barakai,1,0,0,1,,1,fra:1,mislabel
+kqn,Kaonde,1,0,0,1,,1,eng:1,mislabel
+kxh,Karo (Ethiopia),1,0,0,1,,1,eng:1,unverifiable
+bqz,Bakaka,1,0,0,1,,1,fra:1,ok
+swx,Suruahá,1,0,0,1,,1,eng:1,mislabel
+bap,Bantawa,1,0,0,1,,1,eng:1,mislabel
+bkk,Brokskat,1,0,0,1,,1,fra:1,mislabel
+tif,Tifal,1,0,0,1,,1,eng:1,ok
+lgb,Laghu,1,0,0,1,,1,fra:1,mislabel
+fat,,1,0,0,1,,1,por:1,mislabel
+asa,Asu (Tanzania),1,0,0,1,,1,eng:1,mislabel
+aul,Aulua,1,0,0,1,,1,eng:1,ok
+ibl,Ibaloi,1,0,0,1,,1,eng:1,ok
+rml,Baltic Romani,1,0,0,1,,1,ron:1,ok
+nqu,,1,0,0,1,,1,eng:1,unverifiable
+nmg,Kwasio,1,0,0,1,,1,fra:1,ok
+kmp,Gimme,1,0,0,1,,1,eng:1,mislabel
+tlf,Telefol,1,0,0,1,,1,eng:1,ok
+bud,Ntcham,1,0,0,1,,1,fra:1,mislabel
+osc,Oscan,1,0,0,1,,1,eng:1,ok
+anm,Anal,1,0,0,1,,1,eng:1,unverifiable
+rej,Rejang,1,0,0,1,,1,eng:1,ok
+ain,Hokkaido Ainu,1,0,0,1,,1,eng:1,ok
+shl,Shendu,1,0,0,1,,1,eng:1,mislabel
+enq,Enga,1,0,0,1,,1,eng:1,mislabel
+sbl,Botolan Sambal,1,0,0,1,,1,eng:1,ok
+jal,Yalahatan-Haruru-Awaiya,1,0,0,1,,1,por:1,mislabel
+yuc,Yuchi,1,0,0,1,,1,eng:1,ok
+yva,Yawa,1,0,0,1,,1,eng:1,ok
+lgo,,1,0,0,1,,1,eng:1,mislabel
+saj,Sahu,1,0,0,1,,1,zsm:1,mislabel
+zro,Záparo,1,0,0,1,,1,spa:1,ok
+hax,Southern Haida,1,0,0,1,,1,eng:1,mislabel
+bom,Berom,1,0,0,1,,1,eng:1,mislabel
+rif,Tarifiyt-Beni-Iznasen-Eastern Middle Atlas Berber,1,0,0,1,,1,fra:1,mislabel
+kca,Kazym-Berezover-Suryskarer Khanty,1,0,0,1,,1,rus:1,ok
+bez,Bena (Tanzania),1,0,0,1,,1,eng:1,mislabel
+bly,Notre,1,0,0,1,,1,eng:1,mislabel
+tzj,Tz'utujil,1,0,0,1,,1,spa:1,ok
+yos,Yos,1,0,0,1,,1,eng:1,mislabel
+bah,Bahamas Creole English,1,0,0,1,,1,fra:1,mislabel
+sec,Sechelt,1,0,0,1,,1,eng:1,mislabel
+bhd,Bhadrawahi,1,0,0,1,,1,eng:1,unverifiable
+ngs,Gvoko,1,0,0,1,,1,hun:1,mislabel
+yag,Yámana,1,0,0,1,,1,eng:1,mislabel
+map,,1,0,0,1,,1,eng:1,mislabel
+zmx,Bomitaba,1,0,0,1,,1,fra:1,ok
+bmr,Muinane,1,0,0,1,,1,fra:1,mislabel
+dro,Daro-Matu Melanau,1,0,0,1,,1,dzo:1,mislabel
+ove,,1,0,0,1,,1,eng:1,mislabel
+tol,Tolowa-Chetco,1,0,0,1,,1,eng:1,unverifiable
+bbc,Batak Toba,1,0,0,1,,1,ind:1,ok
+thm,Thavung,1,0,0,1,,1,nep:1,mislabel
+xbi,Kombio,1,0,0,1,,1,eng:1,ok
+wnc,Wantoat,1,0,0,1,,1,eng:1,ok
+shp,Shipibo-Conibo,1,0,0,1,,1,eng:1,mislabel
+nua,Yuaga,1,0,0,1,,1,fra:1,mislabel
+iso,Isoko,1,0,0,1,,1,eng:1,ok
+maf,Mafa,1,0,0,1,,1,fra:1,ok
+izh,Ingrian,1,0,0,1,,1,rus:1,ok
+buq,Barem,1,0,0,1,,1,eng:1,mislabel
+cax,Lomeriano-Ignaciano Chiquitano,1,0,0,1,,1,spa:1,unverifiable
+ilc,,1,0,0,1,,1,lat:1,mislabel
+sro,Campidanese Sardinian,1,0,0,1,,1,eng:1,mislabel
+tau,Upper Tanana,1,0,0,1,,1,eng:1,mislabel
+kde,Makonde,1,0,0,1,,1,eng:1,unverifiable
+ttn,Towei,1,0,0,1,,1,spa:1,mislabel
+etr,Edolo,1,0,0,1,,1,eng:1,mislabel
+jdd,,1,0,0,1,,1,eng:1,mislabel
+hol,Holu,1,0,0,1,,1,eng:1,mislabel
+rat,Razajerdi,1,0,0,1,,1,eng:1,mislabel
+xmn,,1,0,0,1,,1,eng:1,mislabel
+kpg,Kapingamarangi,1,0,0,1,,1,eng:1,ok
+jya,,1,0,0,1,,1,eng:1,mislabel
+gib,Gibanawa,1,0,0,1,,1,mah:1,mislabel
+kyk,Kamayo,1,0,0,1,,1,eng:1,mislabel
+awt,Araweté,1,0,0,1,,1,eng:1,mislabel
+tut,,1,0,0,1,,1,eng:1,mislabel
+mwt,Moken,1,0,0,1,,1,ind:1,mislabel
+otd,Ot Danum,1,0,0,1,,1,ban:1,ok
+gus,Guinean Sign Language,1,0,0,1,,1,eng:1,mislabel
+bdm,Buduma,1,0,0,1,,1,eng:1,ok
+klm,Kolom,1,0,0,1,,1,eng:1,mislabel
+veo,Ventureño,1,0,0,1,,1,eng:1,ok
+nla,Ngombale,1,0,0,1,,1,eng:1,unverifiable
+num,Niuafo'ou,1,0,0,1,,1,eng:1,mislabel
+dla,,1,0,0,1,,1,bis:1,mislabel
+wal,Wolaytta,1,0,0,1,,1,eng:1,mislabel
+egg,,1,0,0,1,,1,eng:1,mislabel
+dgm,,1,0,0,1,,1,eng:1,mislabel
+ekr,Yace,1,0,0,1,,1,dum:1,mislabel
+bhz,Bada (Indonesia),1,0,0,1,,1,eng:1,mislabel
+wot,,1,0,0,1,,1,ind:1,mislabel
+lyg,India Lyngam,1,0,0,1,,1,eng:1,mislabel
+bac,,1,0,0,1,,1,eng:1,mislabel
+rkb,Rikbaktsa,1,0,0,1,,1,por:1,ok
+dtp,Kadazan Dusun,1,0,0,1,,1,eng:1,ok
+wnt,,1,0,0,1,,1,eng:1,mislabel
+imn,Imonda,1,0,0,1,,1,eng:1,ok
+dem,Dem,1,0,0,1,,1,deu:1,ok
+ars,Najdi Arabic,1,0,0,1,,1,eng:1,ok
+awk,Awabakal,1,0,0,1,,1,eng:1,ok
+qpa,,1,0,0,1,,1,spa:1,mislabel
+itb,Binongan Itneg,1,0,0,1,,1,eng:1,mislabel
+uby,Ubykh,1,0,0,1,,1,fra:1,ok
+ahe,Ahe,1,0,0,1,,1,eng:1,mislabel
+geo,,1,0,0,1,,1,deu:1,ok
+bor,Bororo,1,0,0,1,,1,eng:1,mislabel
+mww,Hmong Daw,1,0,0,1,,1,eng:1,mislabel
+waa,Northeast Sahaptin,1,0,0,1,,1,fra:1,mislabel
+pnr,Panim,1,0,0,1,,1,eng:1,mislabel
+sng,Sanga (Democratic Republic of Congo),1,0,0,1,,1,eng:1,mislabel
+tvl,Tuvalu,1,0,0,1,,1,eng:1,ok
+hni,Hani,1,0,0,1,,1,eng:1,ok
+eye,,1,0,0,1,,1,eng:1,mislabel
+hll,,1,0,0,1,,1,eng:1,mislabel
+tkr,Tsakhur,1,0,0,1,,1,eng:1,mislabel
+jng,Yangman,1,0,0,1,,1,eng:1,mislabel
+gvf,Golin,1,0,0,1,,1,eng:1,ok
+sso,Sissano,1,0,0,1,,1,eng:1,unverifiable
+bxt,Buxinhua,1,0,0,1,,1,eng:1,mislabel
+gni,Gooniyandi,1,0,0,1,,1,eng:1,ok
+cyb,Cayubaba,1,0,0,1,,1,spa:1,ok
+bib,Bissa,1,0,0,1,,1,eng:1,mislabel
+dol,Doso,1,0,0,1,,1,eng:1,mislabel
+urp,Uru-Pa-In,1,0,0,1,,1,eng:1,mislabel
+kpe,,1,0,0,1,,1,eng:1,mislabel
+jrm,,1,0,0,1,,1,eng:1,unverifiable
+kew,West Kewa,1,0,0,1,,1,tpi:1,ok
+ciw,Chippewa,1,0,0,1,,1,eng:1,ok
+tob,Toba,1,0,0,1,,1,eng:1,mislabel
+owb,,1,0,0,1,,1,eng:1,unverifiable
+bum,Bulu (Cameroon),1,0,0,1,,1,dzo:1,mislabel
+mve,Marwari (Pakistan),1,0,0,1,,1,eng:1,mislabel
+jho,,1,0,0,1,,1,eng:1,mislabel
+saa,Saba,1,0,0,1,,1,eng:1,mislabel
+pwm,Molbog,1,0,0,1,,1,eng:1,unverifiable
+khc,Tukang Besi North,1,0,0,1,,1,tur:1,mislabel
+pct,,1,0,0,1,,1,eng:1,mislabel
+cer,,1,0,0,1,,1,fra:1,mislabel
+nru,Narua,1,0,0,1,,1,fra:1,ok
+flr,Fuliiru,1,0,0,1,,1,eng:1,mislabel
+cjs,Mrassu Shor-Tutal,1,0,0,1,,1,rus:1,ok
+bso,Buso,1,0,0,1,,1,eng:1,mislabel
+rte,,1,0,0,1,,1,eng:1,unverifiable
+ivv,Itbayat,1,0,0,1,,1,eng:1,mislabel
+gaj,Gadsup,1,0,0,1,,1,eng:1,ok
+wad,Wandamen,1,0,0,1,,1,eng:1,ok
+gby,Gbari,1,0,0,1,,1,fra:1,mislabel
+nsm,Sumi Naga,1,0,0,1,,1,fra:1,mislabel
+hjs,,1,0,0,1,,1,eng:1,mislabel
+iap,Iapama,1,0,0,1,,1,eng:1,unverifiable
+sui,Suki,1,0,0,1,,1,eng:1,mislabel
+paa,,1,0,0,1,,1,eng:1,mislabel
+cco,Comaltepec Chinantec,1,0,0,1,,1,spa:1,ok
+esq,Esselen,1,0,0,1,,1,eng:1,ok
+ika,,1,0,0,1,,1,eng:1,mislabel
+nka,Nkoya,1,0,0,1,,1,eng:1,mislabel
